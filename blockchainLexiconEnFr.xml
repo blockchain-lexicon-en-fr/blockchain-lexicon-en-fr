@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="lexicon.css"?>
+<!-- DTD Schema:
+First, the DTD schema gets declared with the indication of the root element of the file(line 16)
+We declare the root element of our xml document and the child elements it contains (line 17)
+We indicate the attribut that is contained in the root element and it's use: #REQUIRED (line 18)
+We declare the "heder" element and indicate that this element will not contain any children nore data (line 19)
+We indicate the attributes that are contained in the "header element", the data they have to contain and their use: #REQUIRED (Lines 20-25)
+We declare the "body element" and the chil elements that he contains. With the + we indicate that the child element can occur at least once or more. (line 26)
+We declare the "tu" element and indicate the child elements it contains. With the + we indicate that the child element can occur at least once or more. (line 27)
+We declare the "tuv" element and indicate the corresponding child elements. With the absence of sings next to the child elements (*, +, ?), we mean that the child elements can occur once and only once. (line 28)
+We declare the "term" element and indicate the type of data it can contain: text. (line 29)
+We declare the "definition" element and indicate the type of data it can contain: text. (line 30)
+We indicate the attributes that are contained in the "tuv" element, the data it has to contain and it's use: #REQUIRED (Line 31)
+-->
+<!--Adrien Dubied 2021 -->
+<!DOCTYPE tmx [                                    
+<!ELEMENT tmx (header, body)>
+<!ATTLIST tmx version CDATA #REQUIRED>
+<!ELEMENT header EMPTY>
+<!ATTLIST header creationTool CDATA #REQUIRED>
+<!ATTLIST header creationToolVersion CDATA #REQUIRED>
+<!ATTLIST header segType CDATA #REQUIRED>
+<!ATTLIST header adminLang CDATA #REQUIRED>
+<!ATTLIST header srcLang CDATA #REQUIRED>
+<!ATTLIST header dataType CDATA #REQUIRED>
+<!ELEMENT body (tu+)>
+<!ELEMENT tu (tuv+)>
+<!ELEMENT tuv (term, definition)>
+<!ELEMENT term (#PCDATA)>
+<!ELEMENT definition (#PCDATA)>
+<!ATTLIST tuv xml:lang CDATA #IMPLIED>
+]>
+
+
+
+<tmx version="1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="blockchainLexicon.xsd">
+   <header creationTool="Translate - Toolkit po2tmx" creationToolVersion="1.9.0" segType="term"
+        adminLang="en" srcLang="en" dataType="plainText"/>
+   <body>
+       <tu>
+           <tuv xml:lang="en">
+               <term>Blockchain</term>
+               <definition>Decentralised, encrypted and self-executing technology enabling the recording of lists of transactions. Transactions are only accepted if all the users agree that it is legitimate. Its best-known use is for digital currencies such as Bitcoin. By embedding code in the blockchain, transactions can be executed automatically in response to certain conditions being met, providing a 'guarantee of execution’. Self-executing smart contracts based upon this functionality are developing rapidly.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Chaîne de bloc</term>
+               <definition>Technologie décentralisée, cryptée et auto-exécutoire permettant de tenir un registre de transactions de manière transparente et décentralisée. Une transaction n’est acceptée que si l’ensemble des utilisateurs s’accordent sur sa légitimité. Elle est surtout connue pour être à la base de devises numériques comme le bitcoin. En incorporant du code informatique à la chaîne de blocs, des transactions peuvent être exécutées automatiquement lorsque certaines conditions sont remplies, ce qui offre une « garantie d’exécution ». Ces contrats intelligents qui s’exécutent automatiquement en tirant parti de cette fonctionnalité connaissent un développement rapide.</definition>
+           </tuv>
+       </tu>
+       
+       <tu>
+           <tuv xml:lang="en">
+               <term>Decentralisation</term>
+               <definition>In working progress…</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Décentralisation</term>
+               <definition>En cours d’élaboration…</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Ledger</term>
+               <definition>In working progress…</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Registre</term>
+               <definition>En cours d’élaboration…</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Middleman</term>
+               <definition>Intermediary which is trusted by all users, who has total control over the system and is responsible for mediating every transaction on a ledger (for example banks, governments, etc.).</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Intermédiaire </term>
+               <definition>Partie qui a la confiance de tous les utilisateurs, qui a le contrôle total du système et qui est responsable de la médiation de chaque transaction figurant dans le registre (banques, gouvernements, etc.).</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Hashing</term>
+               <definition>Feature of the blockchain technology. It is a process through which a document is transformed into a fixed length code which is described as a digital fingerprint.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Hachage</term>
+               <definition>Caractéristique de la technologie blockchain. Il s'agit d'un processus par lequel un document est transformé en un code de longueur fixe qui est décrit comme une empreinte numérique.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Pseudonymity</term>
+               <definition>Feature of the blockchain technology. The fact that all transactions are transparent, but they are not explicitly connected to real-world individuals or organisations, shielding the identity of parties along the supply chain without compromising the integrity of the record.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Pseudonymat </term>
+               <definition>Caractéristique de la technologie blockchain. Le fait que toutes les transactions soient transparentes, mais qu'elles ne sont pas explicitement liées à des personnes ou à des organisations du monde réel, ce qui permet de protéger l'identité des parties tout au long de la chaîne d'approvisionnement sans compromettre l'intégrité de l'enregistrement.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Nakamoto, Satoshi</term>
+               <definition>It is the pseudonym for the mysterious and elusive publisher(s) of an article describing how cryptography, combined with a distributed public ledger, could be used to implement a digital currency without a central authority to authenticate payments. His article is the fundamental on which Satoshi Nakamoto launched the Bitcoin.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Nakamoto, Satoshi</term>
+               <definition>Il s'agit du pseudonyme du ou des mystérieux et insaisissables éditeurs d'un article décrivant comment la cryptographie, combinée à un registre public distribué, pourrait être utilisée pour mettre en œuvre une monnaie numérique sans autorité centrale pour authentifier les paiements. Son article sert de fondement au développement du Bitcoin.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Peer-to-peer</term>
+               <definition>In working progress…</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Pair à pair</term>
+               <definition>En cours d’élaboration…</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Encrypt</term>
+               <definition>In working progress…</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Chiffrer</term>
+               <definition>En cours d’élaboration…</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Watchdog</term>
+               <definition>In working progress…</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Organisme de surveillance</term>
+               <definition>En cours d’élaboration…</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>End-to-end encryption</term>
+               <definition>In working progress…</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Chiffrement de bout en bout </term>
+               <definition>En cours d’élaboration…</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Mining</term>
+               <definition>Process in which the transaction is packaged into a 'block' of transactions, and added, to the ever-growing list of blocks that form the blockchain ledger.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Minage</term>
+               <definition>Processus au cours duquel les transactions sont regroupées en un "bloc" ajouté à la liste toujours croissante des blocs qui forment le registre de la blockchain.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Scarcity</term>
+               <definition>In working progress…</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Rareté</term>
+               <definition>En cours d’élaboration…</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Token</term>
+               <definition>Certificate of identity for unique digital goods that can be transferred with the blockchain technology.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Jeton</term>
+               <definition>Certificat d'identité pour des biens numériques uniques qui peuvent être transférés avec la technologie blockchain.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Ownership history</term>
+               <definition>Record of digital property which enables the blockchain to protect consumers and creators of digital works of all kinds. It enables customers to ensure that they were buying legitimate goods rather than illegitimate copies, and could also enable rights holders to enforce their rights.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Historique de propriété</term>
+               <definition>Enregistrement de propriétés numériques qui permet à la blockchain de protéger les consommateurs et les créateurs d'œuvres numériques de toutes sortes. Elle permet aux clients de s'assurer qu'ils ont acheté des biens légitimes plutôt que des copies illégitimes, et pourrait également permettre aux titulaires de droits de faire valoir leurs droits.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Block</term>
+               <definition>Bundle of new recorded transactions which is added as the latest link on a long 'chain' of historic transactions forming a blockchain.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Bloc</term>
+               <definition>Ensemble de nouvelles transactions enregistrées qui est ajouté comme le dernier maillon d'une longue "chaîne" de transactions historiques formant une blockchain.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Permissioned blockchain-based voting</term>
+               <definition>Electoral authority system, maintaining control over the distribution of pseudonyms to guarantee anonymity and affirming their role as the ultimate authority and central mediator through which all votes must pass.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Système de vote fondé sur une chaîne de blocs</term>
+               <definition>Système d'autorité électorale maintenant le contrôle sur la distribution de pseudonymes pour garantir l'anonymat et servant d'autorité ultime et de médiateur central par lequel tous les votes doivent passer.</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Smart contract</term>
+               <definition>Computerised transaction protocol that executes the terms of a contract. Self-executing transactions in response to certain conditions being met, providing a 'guarantee of execution'.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Contrat Intelligent</term>
+               <definition>Protocole de transaction informatisé qui exécute les termes d'un contrat. Les transactions s'exécutent automatiquement si certaines conditions sont remplies, ce qui fournit une "garantie d'exécution".</definition>
+           </tuv>
+       </tu>
+
+       <tu>
+           <tuv xml:lang="en">
+               <term>Bitcoin</term>
+               <definition>It is by far the most well-known digital currency. It announced blockchain technology to the world. It has a feature whereby new bitcoins are generated and added to the system, having an inflationary effect. It’s distributed structure of the system coupled with its cryptographic functionality make it incredibly robust. It’s blockchain uses resource-intensive algorithms.</definition>
+           </tuv>
+           <tuv xml:lang="fr">
+               <term>Bitcoin</term>
+               <definition>C'est de loin la monnaie numérique la plus connue qui fait dlciouvrir la technologie blockchain au monde entier. Elle possède une caractéristique selon laquelle de nouveaux bitcoins sont générés et ajoutés au système, ce qui a un effet inflationniste. La structure distribuée du système, associée à sa fonctionnalité cryptographique, le rend incroyablement robuste. Sa blockchain utilise des algorithmes gourmands en ressources.</definition>
+           </tuv>
+       </tu>
+
+
+   </body>
+</tmx>

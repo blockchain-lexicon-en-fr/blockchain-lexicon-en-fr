@@ -1,0 +1,576 @@
+Comment la technologie de la chaîne de bloc pourrait changer nos vies
+Analyse approfondie
+Février 2017
+PE 581.948
+STOA - Évaluation des choix scientifiques et technologiques
+AUTEURS
+Philip Boucher, Unité de la prospective scientifique (STOA), DG EPRS, Parlement Européen
+Susana Nascimento, Unité de la prospective, des études comportementales et de la conception deolitiques, DG JRC, Commission Européenne (parties 6 à 8)
+Mihalis Kritikos, Unité de la prospective scientifique (STOA), DG EPRS, Parlement Européeparties sur l’élaboration de politiques d’anticipation)
+À PROPOS DE L’ÉDITEUR
+Pour contacter la STOA ou pour vous abonner à sa lettre d’information, veuillez écrire à l’adressuivante: STOA@ep.europa.eu
+Ce document est disponible sur Internet à l’adresse suivante: http://www.ep.europa.eu/stoa/
+Rédaction achevée en février 2017
+Bruxelles, © Union européenne, 2017
+CLAUSE DE NON-RESPONSABILITÉ
+Le présent document est rédigé à l’attention des membres et du personnel du Parlement européen dane but de les aider dans leur travail parlementaire.
+Le contenu de ce document relève de la responsabilité exclusive des auteurs et les avis qui y sont exprimés ne reflètent pas nécessairement la position officiellu Parlement européen.
+La reproduction et la traduction sont autorisées, sauf à des fins commerciales, moyennant mention de la source, information préalable du Parlement européen et transmission d’un exemplaire à celui-ci.
+Comment la technologie de la chaîne de blocs pourrait changer nos vies
+Sommaire
+Comment la technologie de la chaîne de blocs pourrait changer nos vies......................... 4
+Comment les chaînes de blocs fonctionnent-elles?................................................................ 5
+1 Devises: l’avant-garde de la technologie de la chaîne de blocs ................................... 6
+2 Contenu numérique: chaînes de blocs et gestion des droits ........................................ 8
+3 Brevets: protéger les inventeurs tout en encourageant l’innovation ........................ 10
+4 Vote électronique: vers une révolution du système électoral?................................... 12
+5 Contrat intelligents: là où le code informatique fait loi .............................................. 14
+6 Chaînes d’approvisionnement: vers la transparence et la responsabilité?............... 17
+7 Chaîne de blocs et État: repenser les services publics ................................................. 19
+8 Une chaîne de blocs omniprésente? Les organisations autonomes décentralisées............................21
+Conclusions ............................................................................................................................... 23
+Comment la technologie de la chaîne de blocs pourraihanger nos vies
+Les chaînes de blocs constituent un moyen remarquable de tenir un registre de transactions de manièrransparente et décentralisée.
+Elles sont surtout connues pour être à la base de devises numériqueomme le bitcoin, qui a mis la technologie de la chaîne de blocs sous le feu des projecteurs lorsqu’il s’espprécié de 1 000 % en l’espace d’un seul mois en 2013. Cette bulle avait alors éclaté rapidement, maie bitcoin connaît une croissance régulière depuis 2015 et son cours atteint aujourd’hui un niveau plus élevé que jamais.
+Il existe de nombreuses manières de créer de nouvelles monnaies à l’aide des chaînes de blocs.
+Deentaines de ces monnaies ont été conçues avec des caractéristiques et des objectifs propres.
+Comme leransactions de devises fondées sur les chaînes de blocs génèrent des registres publics sûrs, rapidement à moindre coût, elles pourraient servir à de nombreuses fins non financières, par exemple pour voter à une élection ou prouver qu’un document existait à une date précise.
+Les chaînes de blocs conviennenout particulièrement dans les situations où il est nécessaire de conserver un historique de propriété.
+Ainsi, elles pourraient faciliter la gestion des chaînes d’approvisionnement, en vue de s’assurer que deiamants sont de provenance éthique, que des vêtements n’ont pas été fabriqués dans un atelielandestin ou que le champagne vient bien de Champagne.
+Elles pourraient permettre de résoudre enfie problème du piratage de la musique et des films, en offrant la possibilité d’acheter, de vendre’hériter ou de céder en toute légitimité des contenus numériques à l’instar des livres, des disques ees cassettes vidéo.
+Elles ouvrent également des possibilités dans toutes sortes de services publicsomme le remboursement des frais de santé et le versement des prestations sociales.
+À la pointe développement des chaînes de blocs se trouvent même les contrats intelligents, qui laissent entrevoin avenir où des entreprises autonomes fonctionneraient sans intervention humaine.
+Les chaînes de blocs redistribuent aux utilisateurs une partie du contrôle qu’exercent les éliteentralisées sur les interactions technologiques du quotidien.
+Elles rendent ainsi les systèmes pluransparents, voire plus démocratiques.
+Pour autant, cela n’aboutira probablement pas à une révolution.
+En effet, les États et les géants du secteur qui investissent massivement dans la recherche eéveloppement en matière de chaînes de blocs n’ont pas pour objectif de se rendre eux-mêmebsolètes, mais plutôt d’améliorer leurs services.
+La problématique est d’ailleurs plus vaste.
+Paxemple, la transparence des chaînes de blocs convient bien aux registres publics tels que les cadastresais qu’en est-il des comptes bancaires et autres données sensibles? Il est possible, quoique seulemenarfois et au prix d’efforts substantiels, d’identifier les personnes associées aux transactions.
+Cela poourrait compromettre leur vie privée et leur anonymat.
+Si certaines chaînes garantissent bien unonymat total, certaines informations sensibles ne doivent tout simplement pas être distribuées de lorte.
+Néanmoins, même si les chaînes de blocs ne sont pas la solution à tous les problèmes et névolutionneront pas tous les aspects de nos vies, elles pourraient avoir des répercussions importanteans de nombreux domaines, et il est nécessaire d’être préparé aux défis qu’elles présentent et auossibilités qu’elles offrent.
+La présente analyse informe, de manière accessible, celles et ceux, au Parlement européen et ailleursui souhaitent en savoir plus sur le développement des chaînes de blocs et leurs retombées potentielles.
+Cette démarche a pour objectif de stimuler la réflexion et les discussions autour de cette technologiomplexe, controversée et à l’évolution rapide.
+L’analyse n’est pas séquentielle, ainsi le lecteur est-invité à choisir les parties qui l’intéressent et à les lire dans l’ordre de son choix.
+La première partirésente un aperçu du mode de fonctionnement de la technologie de la chaîne de blocs.
+Les huit partieuivantes détaillent chacune sur deux pages les applications possibles de cette technologie dans deomaines variés, les incidences potentielles et les enjeux en matière de politique européenne.
+Enfin, lonclusion formule quelques remarques générales et offre plusieurs réponses possibles au développement des chaînes de blocs.
+Comment la technologie de la chaîne de blocs pourrait changer nos vies
+Comment les chaînes de blocs fonctionnent-elles?
+Avant de chercher à comprendre comment fonctionnent les registres reposant sur des chaînes de blocsl est utile de se pencher sur les registres traditionnels.
+Depuis des siècles, les banques ont recours à des livres comptables pour tenir les écritures des transactions, et les États utilisent des cadastres pounregistrer la propriété foncière.
+Une autorité centrale, la banque ou une agence de l’État, est chargée gérer les modifications au registre des transactions, ce qui lui permet d’identifier le détenteur d’unropriété donnée à tout moment.
+Elle peut ainsi vérifier si une nouvelle transaction est légitime, si leêmes 5 euros ne sont pas dépensés deux fois et si des maisons ne sont pas vendues par des personneui ne les possèdent pas.
+Étant donné que les utilisateurs comptent sur le gestionnaire du registre pouérifier la validité des transactions, ils peuvent acheter et vendre des biens entre eux, et ce, même s’ile se sont jamais rencontrés auparavant et qu’ils ne se font pas confiance.
+L’intermédiaire contrôle également l’accès aux informations contenues dans le registre.
+Il peut ainsi décider que tout un chacueut connaître l’identité du propriétaire d’un immeuble, mais que seul le titulaire d’un compte peut eérifier le solde.
+Ces registres sont centralisés (ils reposent sur un intermédiaire, auquel tous letilisateurs font confiance, qui exerce un contrôle total sur le système et qui supervise chacune deransactions) et sont des boîtes noires (leur fonctionnement ainsi que leurs données ne sont pantièrement visibles par l’utilisateur). La numérisation a rendu ces registres plus rapides et d’utilisatiolus aisée, mais ils demeurent centralisés et opaques.
+Les chaînes de blocs offrent la même fonctionnalité de tenue de registres, mais sans architecturentralisée.
+Quelle est alors la légitimité d’une transaction s’il n’existe pas d’autorité centrale à même la vérifier? Les chaînes de blocs résolvent ce problème en décentralisant le registre, de sorte quhaque utilisateur en détienne une copie.
+N’importe qui peut demander l’ajout d’une transaction à lhaîne de blocs, mais une transaction n’est acceptée que si l’ensemble des utilisateurs s’accordent sur ségitimité, par exemple sur le fait que la demande provient bien d’une personne habilitée, que lendeur de la maison ne l’a pas déjà vendue, et que l’acheteur n’a pas déjà dépensé l’argent.
+Cettérification s’effectue de manière fiable et automatique pour le compte de chaque utilisateur, ce qui crén système de registre très rapide, sûr et remarquablement résistant à la falsification.
+Chaque nouvelle transaction à enregistrer est assemblée avec toutes les autres transactions récentes dann «bloc», qui devient le dernier maillon de la longue «chaîne» de l’historique des transactions.
+Cetthaîne de blocs constitue le registre qui est détenu par tous les utilisateurs.
+Cette opération est appelée
+«minage». Tout le monde peut devenir un mineur et tenter d’être le premier à résoudre le problèmathématique complexe qui consiste à créer un bloc de transactions valide et chiffré en vue de l’ajouter
+à la chaîne de blocs.
+Il existe divers moyens d’inciter les gens à effectuer ce travail.
+Le plus souvent, lremier mineur qui crée un bloc valide et l’ajoute à la chaîne est récompensé par la somme deommissions sur les transactions contenues dans ce bloc.
+Ces commissions s’élèvent actuellement à environ 10 centimes d’euro par transaction, mais des blocs sont ajoutés régulièrement et contiennenes milliers de transactions.
+Les mineurs peuvent également recevoir de nouvelles devises, créées eises en circulation au titre d’un mécanisme inflationniste.
+L’ajout d’un nouveau bloc à la chaîne suppose la mise à jour du registre détenu par l’ensemble detilisateurs.
+Les utilisateurs n’acceptent un nouveau bloc que lorsqu’il a été vérifié que toutes seransactions sont valides.
+Si une anomalie est décelée, le bloc est alors rejeté. Autrement, le bloc esjouté et conservera sa position en tant que registre public.
+Aucun utilisateur ne peut l’effacer.
+Si unttaque contre l’intermédiaire suffit pour détruire ou altérer un registre traditionnel, il est nécessaireans le cas d’une chaîne de blocs, de réussir une attaque simultanée contre chacune des copies degistre.
+Il ne peut exister de faux registre, car tous les utilisateurs disposent de leur propre versiouthentique pour le vérifier.
+La confiance et le contrôle des transactions fondées sur les chaînes de bloce sont pas centralisés et opaques, mais décentralisés et transparents.
+Ces chaînes de blocs sont décriteomme étant «sans permissions», car il n’existe pas d’autorité spéciale pouvant refuser la permission de participer à la vérification et à l’ajout des transactions.
+Elles peuvent aussi être considérées comm’incarnation de valeurs politiques et sociales, comme la transparence et la redistribution du pouvoir.
+Il est également possible de mettre en place des chaînes de blocs «à permissions», pour lesquelles uroupe limité d’acteurs conserve la faculté d’accéder au registre, de le vérifier et d’y ajouter deransactions.
+Cela permet aux acteurs «institutionnels», tels que les banques et les États, de garder urand contrôle sur leurs chaînes de blocs.
+Les chaînes de blocs à permissions sont moins transparentet décentralisées que leurs homologues sans permissions, si bien qu’elles incarnent des valeurs socialet politiques légèrement différentes.
+1. Devises: l’avant-garde de la technologie de la chaîne de blocs
+Les devises constituent de loin la plus célèbre des nombreuses utilisations de la technologie de la chaîne blocs.
+De même, alors que le bitcoin n’est que l’une des multiples monnaies créées d’après ce principe’est de loin la plus connue.
+De nombreux projets récents ont porté sur les vastes possibilités offertes paette technologie, mais il est rare qu’un débat public sur les chaînes de blocs ne fasse pas référence aitcoin ou, du moins, aux devises fondées sur les chaînes de blocs.
+Étant donné que les monnaieominent le débat autour des chaînes de blocs et qu’elles en représentent l’application la plus mûre ea plus connue, elles exercent une profonde influence sur le développement de cette technologie à titrlus général.
+Cette partie offre un bref aperçu du fonctionnement des applications de chaînes de blocour les monnaies et quelques-unes de leurs incidences.
+Toutefois, comme il existe déjà plusieurs guidet articles disponibles sur le sujet, l’importance sera accordée à la manière dont la prépondérance ditcoin dans le domaine des chaînes de blocs est susceptible d’influencer le développement général da technologie et les autres applications des registres distribués.
+Comment ces devises fonctionnent-elles?
+Le bitcoin a été lancé par Satoshi Nakamoto, pseudonyme utilisé par un ou plusieurs mystérieux auteur’un article qui décrit comment la cryptographie, associée à un registre public distribué, pourrait servir
+à créer une devise numérique libérée de toute autorité centralisée de vérification des paiements.
+Habituellement, un individu peut échanger de l’argent avec une personne qu’il ne connaît pas car leeux acteurs ont confiance en une tierce partie, que ce soit en la validité d’un billet de banque ou en untermédiaire comme une banque ou un bureau de change.
+Le système imaginé par Nakamoto nomporte ni monnaie fiduciaire ni intermédiaire, mais instaure un climat de confiance grâce à l’utilisation innovante de la cryptographie et des réseaux de pair à pair.
+Lorsqu’un utilisateur envoie deitcoins à un autre, les détails de la transaction, tels que les adresses des deux parties et le montanransmis, sont diffusés sur le réseau bitcoin afin d’être validés par tous les pairs du réseau.
+Une foialidée par le réseau, la transaction est incluse dans un «bloc» de transactions et ajoutée, au moyen drocessus de «minage», à la liste toujours croissante des blocs qui composent le registre de la chaîne dlocs.
+Cette liste est enregistrée par l’ensemble des pairs présents sur le réseau.
+Le bitcoin dispose également d’une fonction qui génère de nouveaux bitcoins et les injecte dans le système, avec pouésultat de créer de l’inflation.
+Ces bitcoins sont distribués aux mineurs (en plus de la somme deommissions des transactions dans le bloc) en tant que récompense pour l’ajout de transactions à lhaîne de blocs.
+N’importe quel utilisateur peut entreprendre de miner à l’aide de son ordinateur, maies mineurs se sont professionnalisés et utilisent aujourd’hui des ordinateurs spécialement conçus pouette tâche.
+La structure répartie du système, alliée à sa fonctionnalité cryptographique, rendent litcoin incroyablement robuste.
+La confiance nécessaire pour effectuer des transactions est établie par lait que toutes les transactions, d’hier, d’aujourd’hui et de demain, sont observées, quoique de manièrutomatique, par tous les utilisateurs.
+Le bitcoin est de loin la principale devise fondée sur les chaînes de blocs, mais il en existe de nombreuseutres qui présentent de légères différences techniques.
+Ces différences résident souvent dans le processus de minage, qui peut demander d’importantes ressources de calcul.
+Par exemple, certaineonnaies reposent sur des algorithmes moins gourmands en ressources que le bitcoin.
+L’algorithme deercoin est ainsi conçu pour utiliser de moins en moins de ressources au fur et à mesure qu’il séveloppe.
+Ces devises varient également sur le plan du rythme et des modes de création et distribution de nouvelle monnaie, c’est-à-dire sur le plan de leur politique d’inflation.
+Beaucouéfinissent un nombre maximum de «coins», et, dès lors que cette valeur est atteinte, le minage ne crélus de nouvelle monnaie et les mineurs tirent seulement profit des commissions sur les transactions.
+Certaines devises reposent sur des algorithmes conçus pour éviter l’apparition de mineurrofessionnels qui utilisent un équipement de minage spécialisé.
+Comme ces transactions ont un coût très faible, qui se situe aujourd’hui entre 0 et 0,10 euro, mais qu’elleffrent un registre permanent et sûr, il est possible d’utiliser la chaîne de blocs bitcoin à d’autres fins noinancières.
+Diverses applications non monétaires peuvent ainsi être explorées et menées à bien, comme vote ou la protection des brevets.
+Bien que ce type d’approche empêche le développeur d’incorporees fonctions sur mesure comme il pourrait le faire dans sa propre version de la chaîne de blocs, elle ’avantage d’offrir une infrastructure stable et accessible à moins coût, ce qui en fait un excellent terrai’expérimentation de nouvelles idées.
+D’autres monnaies fondées sur les chaînes de blocs sont apparueans le but explicite de permettre des applications plus variées.
+Prenons l’exemple du système
+Ethereum, qui a été créé d’après le livre blanc de Vitalik Buterin et grâce à une campagne de financemenarticipatif.
+Il comporte une monnaie, l’ether, décrite comme en étant le carburant, ainsi qu’un code queut être utilisé afin de mettre en œuvre un large éventail de fonctions non financières, tels que leontrats intelligents, la gestion des droits numériques ou encore les organisations autonomeécentralisées.
+Incidences et évolutions possibles
+En 2014, un avis de l’Autorité bancaire européenne a mis en lumière certains des risques que présentenes devises fondées sur les chaînes de blocs.
+D’après cet avis, leurs atouts immédiats, notamment leransferts rapides, sûrs et peu coûteux, ne présentent que peu d’intérêt pour l’Union européenne, où leransferts conventionnels offrent déjà une grande partie de ces avantages.
+Pour beaucoup d’utilisateurses véritables atouts de ces monnaies, au-delà des économies modestes en temps et en argent, résidenans les fonctionnalités et les valeurs qui font défaut aux devises traditionnelles.
+Ces avantages peuvennclure quelques-uns des «problèmes» très médiatisés du bitcoin, à savoir sa grande volatilité et sotilisation sur les marchés illégaux du Dark Web, qui pourraient bien tous deux avoir attiré de nombreutilisateurs.
+En termes simples, s’il n’y avait aucun avantage sérieux à utiliser de telles cryptomonnaien Europe, leur taux d’utilisation serait négligeable.
+Leur adoption continue cependant de croître, et calgré l’importante violation de sécurité qui a ébranlé les fondations idéologiques d’Ethereum.
+Ces devises se trouvent déjà à la pointe du développement des chaînes de blocs, ce qui pourrait aboutir
+à un bouleversement techno-social majeur.
+En effet, si elles se montrent à la hauteur de leurs ambitionses cryptomonnaies pourraient ouvrir la voie à un processus de décentralisation à travers lequel lenstitutions qui régissent traditionnellement le système financier, comme les États et les banqueserdraient de leur pouvoir.
+Cependant, ces mêmes détenteurs du pouvoir financier travaillenujourd’hui à la recherche et au développement de chaînes de blocs qui répondent à leurs propreesoins.
+Ces chaînes pourraient s’avérer moins décentralisées et transparentes que les autres.
+Toujours est-il que les principales conséquences des devises basées sur les chaînes de blocs apparaîtroneut-être dans des domaines extérieurs au système financier.
+Le bitcoin et ses homologues offrent un largocle d’utilisateurs, des espaces propices à l’expérimentation et un «carburant» pour faire progresser cedées.
+Même si le bitcoin ne révolutionne pas le système financier, il pourrait ouvrir la voie à d’autrepplications susceptibles de procurer, par exemple, de formidables avantages pour les chaîne’approvisionnement et les services publics.
+Si le large éventail d’applications des chaînes de blocs faiujourd’hui l’objet de nombreuses discussions, les devises telles que le bitcoin ont occupé, ces dernières années, une place centrale dans les médias et les décisions politiques, ce qui pourrait avoir une influencur l’évolution de la technologie.
+Autrement dit, les références fréquentes à la valeur fluctuante ditcoin et à son utilisation sur les marchés noirs pourraient détourner les acteurs concernés et le publi’un débat plus productif au sujet des nombreuses possibilités et des multiples défis liés à cettechnologie.
+Élaboration d’une politique d’anticipation
+Les monnaies virtuelles présentent un grand nombre de problèmes juridiques et réglementaires, ompris en ce qui concerne les mécanismes de protection des consommateurs, les méthode’application de la loi et la possibilité de commettre des activités illégales comme la fraude fiscale ou lente de produits illégaux.
+Elles peuvent aussi apporter de nombreux avantages aux citoyens, commne réduction des coûts, une sécurité accrue et un système financier innovant et plus accessible.
+Ceuestions, parmi d’autres, ont été reconnues dans une résolution récente du Parlement européenaquelle souligne également les possibilités offertes par la technologie de la chaîne de blocs «bien au-delà du seul secteur financier» et appelle à l’adoption d’une approche réglementaire proportionnée ainsu’à un renforcement des capacités et de l’expertise au niveau de l’Union.
+2. Contenu numérique: chaînes de blocs et gestion des droits
+La contrefaçon et la fraude dans le domaine de l’art sont des disciplines anciennes, mais, à l’époque d’internet, il suffit souvent d’un simple copier-coller.
+Des contenus multimédias ont été copiés eartagés à grande échelle, souvent de manière illégale, depuis que les systèmes haute fidélité domestiques permettent de copier facilement des disques vinyles et des émissions de radio sur deassettes audio.
+L’internet a rendu le piratage encore plus facile.
+Les pionniers s’étaient organisés eéseaux mondiaux en vue de partager des copies de CD par la poste.
+L’augmentation de bande passantt l’apparition des formats numériques ont permis aux réseaux de partage de fichiers de faire connaître piratage au grand public.
+Aujourd’hui, le piratage de contenus multimédias se fait en général aoyen de «torrents» et, de plus en plus, par streaming.
+Malgré le caractère souvent illégal de cettistribution de contenu, la pratique est si répandue et sa répression si difficile que la mise en conformité est souvent considérée comme facultative.
+Récemment, les services d’abonnement légaux ont supplanté une partie de ce piratage en proposant un accès à des contenus multimédias en contrepartie d’unedevance versée aux ayants droit à partir des revenus perçus sur les abonnements et la publicité.
+Cependant, aucun modèle de distribution, jusqu’à l’arrivée de la chaîne de blocs peut-être, n’esarvenu à apporter une réponse efficace aux réalités des échanges illégaux de contenus numériques à l’ère de l’internet, en tenant compte des intérêts de l’auteur original, du consommateur et des diverntermédiaires.
+Lorsque les consommateurs achètent des livres ou des disques, ils entrent en possession d’un objehysique qu’ils peuvent ensuite vendre, céder ou léguer dans le cadre d’un héritage.
+Leurs droits sonoutefois limités: par exemple, ils ne doivent pas en distribuer de copies et ils sont tenus de verser unedevance s’ils en diffusent le contenu.
+En achetant l’équivalent numérique de ce même contenédiatique, les consommateurs savent qu’ils n’acquièrent pas la propriété d’un objet physique, maieaucoup ne se rendent pas compte qu’ils n’acquièrent pas non plus la propriété du contenu.
+Aontraire, ils concluent un contrat de licence valide pour une période donnée ou un certain nombre dectures.
+Ces licences ne peuvent être vendues, cédées ni même léguées en héritage.
+La constitutio’une collection numérique légale de musique, de livres, de jeux et de films coûte souvent autant quelle d’une collection de disques et de livres au contenu équivalent.
+Cela représente un investissemenonsidérable tout au long de la vie, mais qui ne peut pas être cédé et qui disparaît au moment du décès.
+Alors que les générations précédentes pouvaient prendre plaisir à revivre les goûts et les souvenirs deurs êtres chers au moyen de leurs vieux cartons de disques, de livres et de jeux, les enfant’aujourd’hui pourraient ne pas jouir du même accès aux contenus numériques de leurs parents.
+La technologie de la chaîne de blocs pourrait-elle résoudre ces problèmes et d’autres questions en matière contenus numériques?
+Comment la chaîne de blocs pourrait permettre de gérer les droits numériques
+La technologie de la chaîne de blocs pourrait servir à la gestion des droits du consommateur associéux produits numériques.
+Dans la plupart des cas, il est question d’œuvres reproduites en masse quont l’équivalent numérique des CD, DVD et des livres, et dont l’auteur vend de nombreuses copies.
+Cependant, la technologie pourrait également trouver son application dans le domaine émergent des
+œuvres numériques uniques, à savoir, par exemple, l’équivalent numérique d’un tableau.
+Dans ce cae figure, l’acheteur n’acquiert pas une version dérivée, comme le MP3 d’une chanson, mais les droitxclusifs de l’œuvre originale elle-même.
+La chaîne de blocs peut protéger à la fois les consommateurt les auteurs de toutes sortes d’œuvres numériques en consignant l’historique de propriété des contenuumériques, voire en garantissant le respect des droits numériques.
+Elle peut également servir à consigner l’ensemble des ventes, des prêts, des dons et autres transfert’objets numériques individuels.
+Toutes les transactions sont observées et validées par l’ensemble detilisateurs.
+Suivant le même principe que pour les transactions sur un compte en banque ou un registradastral, les objets ne peuvent pas être transférés tant qu’ils ne sont pas légitimement détenus.
+Lecheteurs peuvent vérifier qu’ils acquièrent bien des copies légitimes de fichiers MP3 et vidéo.
+Legistre des transactions permet en effet de confirmer que les différents transferts de propriété remontenien jusqu’au propriétaire d’origine, c’est-à-dire l’auteur de l’œuvre.
+Ce concept pourrait être couplé à celui des contrats intelligents pour que les utilisateurs puissent octroyer à d’autres l’accès au contenendant une durée limitée avant que les droits ne soient automatiquement rendus au propriétaire, oour que les dispositions testamentaires soient automatiquement exécutées à l’enregistrement d’uertificat de décès.
+Pour qu’un tel système fonctionne, il est fondamental que le transfert de propriété d’une partie à une autre entraîne la perte d’accès pour l’ancien propriétaire, comme cela arrive lors da vente d’un disque vinyle d’occasion.
+En effet, il convient de connaître autant le moment auquerennent fin les droits d’un utilisateur que celui auquel s’ouvrent les droits d’un autre.
+Or, la chaîne dlocs permet justement de vérifier l’identité du propriétaire du contenu ainsi que l’historique dropriété. De cette manière, les consommateurs pourraient s’assurer qu’ils achètent des bienumériques légitimes plutôt que des copies illégitimes, et les ayants droit pourraient faire valoir leurroits.
+La vérification de la légitimité de la propriété pourrait être effectuée au moyen de la technologiear des appareils qui vérifieraient les droits selon le profil de l’utilisateur avant de démarrer la lecture.
+Cela nécessiterait de développer de nouveaux codecs, d’élaborer de nouvelles normes pour le secteur ee mettre au point des formats de fichiers qui regroupent contenu et permissions.
+Outre l’achat de copies sous licence d’œuvres numériques, comme des chansons MP3, il est égalemenossible d’acheter et de vendre des œuvres originales, c’est-à-dire l’œuvre elle-même.
+Tout comm’achat d’un tableau donne davantage de droits que l’achat de la reproduction d’un tableau, l’acheteu’une œuvre numérique originale acquiert également les droits exclusifs de diffuser le contenu, d’eendre des copies et d’intenter des actions à l’encontre des personnes qui en font un usage illégal.
+Il esmportant pour l’acheteur de savoir s’il acquiert la propriété de l’œuvre assortie de sa valeur et de seroits, ou juste une reproduction sous licence pour son usage personnel.
+Dans ce cas, la chaîne de blocourrait servir à vérifier l’identité du véritable propriétaire du contenu, la nature de ce contenexemplaire original ou copie) et l’ensemble des droits qui l’accompagnent.
+En sus des droits des vendeurs et des acheteurs, la chaîne de blocs pourrait garantir la protection deroits de l’auteur de l’œuvre, qui pourrait choisir de conserver une partie de ces droits lors de la vente son contenu.
+Ces créateurs originaux pourraient constituer un réseau complexe d’acteurs détenanne propriété partielle et un droit au versement d’une redevance lorsque le contenu est utilisé à des finommerciales.
+Dans le cas de morceaux de musique, par exemple, ce groupe pourrait comprendre leompositeurs, les musiciens et les autres artistes, ainsi que les ingénieurs d’enregistrement, les managers et toute une équipe d’intermédiaires spécialisés.
+Les droits de chacun de ces acteurs, de même que leodalités et les mécanismes de versement, peuvent être encodés numériquement en vue de garantir uaiement plus fiable et efficace.
+Le paiement des droits d’auteur pourrait même être effectué de manièrutomatique au moyen de contrats intelligents.
+Incidences et évolutions possibles
+Une telle utilisation de la technologie de la chaîne de blocs pourrait, pour la première fois, permettre auonsommateurs d’acheter et de vendre des copies numériques d’occasion, de les offrir ou de les donner
+à des magasins caritatifs, de les prêter à des amis ou de les inscrire à leur héritage, comme c’était le cavec les disques vinyle et les livres, sans que se propage pour autant une multitude de copies noutorisées.
+Pour qu’une telle méthode de gestion des droits numériques fonctionne là où tant d’autrent échoué, la chaîne de blocs doit parvenir à concilier les droits des vendeurs, des acheteurs, du résea’acteurs (qui inclut le propriétaire original du contenu) et d’un grand nombre d’autres intermédiaires compris les personnes qui développent et entretiennent la chaîne elle-même.
+Au vu de la complexité des réseaux d’intérêts en jeu, il serait idéaliste de s’attendre à voir apparaître rapidement une solutioui ne suscite aucune controverse, même si certains avancent que la technologie de la chaîne de blocourrait avoir une véritable incidence sur le secteur musical d’ici 10 à 15 ans tout en offrant davantage possibilités aux premiers à l’adopter.
+Élaboration d’une politique d’anticipation
+Le droit continuera de jouer un rôle important dans l’identification des œuvres protégées par le droi’auteur et dans la résolution des litiges.
+Le développement des chaînes de blocs dans ce domainourrait aboutir à des politiques de licence multiterritoriales et au renforcement de la sécurité juridiques créateurs et des acheteurs, tout en offrant des mécanismes efficaces de résolution des litigesotamment en ce qui concerne les tarifs, les conditions de concession des licences, les mandats relatifs
+à la gestion des droits en ligne et le retrait des droits.
+3. Brevets: protéger les inventeurs tout en encouragean’innovation
+Les brevets donnent à leur titulaire le droit exclusif d’exploiter des innovations pendant une duréonnée.
+Le système des brevets a été conçu pour encourager l’innovation en offrant aux inventeurs unongueur d’avance sur leurs concurrents afin de pouvoir tirer profit de leurs idées.
+Après tout, pourquonvestir le temps et l’argent nécessaires à la mise au point d’une idée si d’autres peuvent la copier eégager des bénéfices immédiatement sans avoir contribué aux coûts de développement? Cependantrotéger les innovateurs ne signifie pas la même chose qu’encourager l’innovation.
+Le système derevets doit trouver le juste milieu entre protection des innovateurs et protection des concurrents.
+Si lenventeurs ne sont pas protégés, l’exposition à une concurrence débridée freine l’investissement dan’innovation.
+En revanche, si les concurrents ne sont pas protégés, ils sont découragés d’investir danes améliorations et des économies de coûts, voire empêchés d’entrer sur le marché et de briser lonopole de l’inventeur d’origine.
+Fondamentalement, le système des brevets peut être vu comme un échange par lequel l’État cède aux inventeurs un monopole, d’une portée et d’une durée limitées, pouu’ils puissent exploiter leur invention en contrepartie de la publication par ceux-ci du fonctionnemenétaillé de l’invention, ce qui permet à d’autres de concevoir des améliorations ou des solutionifférentes.
+Toutefois, le système des brevets présente plusieurs problèmes bien connus.
+Par exemple, leoncurrents peuvent parfois tirer parti du brevet avant l’inventeur, soit parce que le brevet n’est passez solide ou parce que ses titulaires n’ont pas les moyens de se défendre contre sa violation.
+Cettituation, associée aux dépenses liées à l’obtention de brevets dans différentes régions, pousse certaines entreprises à prendre le risque de commercialiser leurs inventions sans aucune protection par brevet.
+Un autre problème réside dans la complexité du système de brevets.
+Chaque pays possède ses proprerincipes et systèmes en matière de brevets.
+Malgré les récentes avancées, il n’existe toujours pas drevet unitaire européen.
+Néanmoins, l’Office européen des brevets propose un guichet unique quermet de déposer des brevets dans l’ensemble des systèmes des États membres, mais les frais draduction, de validation et de renouvellement dans les différents systèmes rendent le processuelativement onéreux en Europe.
+Le système des brevets pose également le problème des chasseurs de brevets, qui n’inventent rien maicquièrent des brevets et demandent ensuite réparation en cas de violation.
+Bien que leurs réclamation’aient pas toujours une assise juridique solide, les entreprises sont souvent incapables ou peésireuses d’engager les dépenses juridiques nécessaires à leur défense et préfèrent s’arranger à l’amiable.
+Les autorités européennes en matière de concurrence enquêtent de plus en plus sur de telbus, notamment dans le secteur de la haute technologie.
+Alors que le système des brevets est en grande partie numérisé aujourd’hui, il n’a pas connu dhangement structurel majeur depuis l’avènement de la révolution numérique.
+Selon certains, le recours
+à une chaîne de blocs en lieu et place des brevets pourrait, d’une part, fluidifier l’innovation en réduisane nombre de différends contractuels et, d’autre part, permettre de pallier quelques-unes des faiblesseu système de brevets.
+La section qui suit vise à expliquer le rôle que la chaîne de blocs pourrait avoians le système des brevets et énumère les bénéfices potentiels, avant de présenter un tour d’horizoes idées plus radicales selon lesquelles la chaîne pourrait se substituer au système des brevets, voirrécipiter sa disparition.
+Comment la chaîne de blocs pourrait contribuer au système des brevets
+Deux caractéristiques de la technologie de la chaîne de blocs la rendent particulièrement adaptée aystème des brevets: le «hachage» et la «preuve d’existence». La première, le hachage, est un procédé qui consiste à calculer à partir d’un document un code de longueur fixe, décrit comme une empreintumérique, appelée plus souvent «hash» ou condensé. Tous les condensés sont uniques: la plus petitifférence, tel un accent manquant sur une lettre dans un long document, se traduit par l’obtention d’uondensé intégralement différent.
+Ce n’est qu’en répétant le hachage sur une copie identique aocument original que l’on obtient le même condensé. Surtout, il est impossible de recréer un document
+à partir de son condensé. La deuxième, la preuve d’existence, consiste à enregistrer ces condensés dana chaîne de blocs.
+Dès lors, une entrée est créée qui prouve que le condensé existait à un moment donné.
+N’importe qui peut vérifier cette entrée, mais personne ne peut interpréter le contenu du condensé.
+Cependant, les détenteurs du document original peuvent prouver que ce document existait au momene la transaction en répétant le procédé de hachage sur une copie identique dudit document.
+Si le mêmlgorithme de hachage produit le même condensé, cela indique qu’ils sont en possession du mêmocument.
+Cette méthode offre la possibilité intéressante d’enregistrer de manière publique l’existenc’un document sans en révéler le contenu.
+Pour certains, les inventeurs pourraient utiliser ce procédé afin de protéger leur travail en enregistrant un condensé de la description de leur brevet, d’un texte o’un extrait de code informatique dans la chaîne de blocs.
+Aussi, des services de preuve d’existence sonéjà disponibles dans le domaine de la protection des brevets.
+Ces services sont adossés aux capacitées chaînes existantes, notamment la chaîne du bitcoin, mais un système sur mesure d’enregistremenes condensés pourrait être mis au point et déployé spécialement en vue d’établir la preuve d’existence.
+Incidences et évolutions possibles
+Le recours à la technologie de la chaîne de blocs dans le cadre du système des brevets pourrait palliefficacement les faiblesses en matière d’enregistrement et d’harmonisation de l’horodatage de cenregistrement, et ce pour plusieurs systèmes nationaux de brevets.
+Des services de preuve d’existencondés sur la chaîne de blocs pourraient être proposés en tant que première étape du processus de dépôt de brevet.
+Le processus pourrait ensuite être rationalisé et sécurisé, ce qui rendrait ses étapes pluransparentes pour le déposant tout en réduisant les possibilités de corruption.
+Cependant, s’amélioration du processus d’enregistrement et d’horodatage des inventions pourrait apporter devantages concrets au système des brevets, les problèmes les plus sérieux, tels que ceux des chasseure brevets et des coûts de traduction, nécessiteront peut-être une solution différente.
+Certains ont avancé (à tort) qu’un brevet n’est rien de plus qu’un «concept tamponné et conservé dann endroit où il ne peut être falsifié». Il a même été suggéré que la chaîne de blocs pourrait remplacer lystème des brevets tout en permettant aux inventeurs de conserver leurs secrets.
+En fait, la publicatioes brevets est l’un des éléments essentiels de leur fonction: stimuler l’innovation.
+La publication derevets encourage les concurrents à concevoir d’autres solutions ainsi que des améliorations en vue driser le monopole après expiration du brevet, tout en suscitant des avancées dans des domaines qui nont pas couverts par le brevet.
+L’enregistrement de l’inventeur et de la date d’une idée n’est qu’unartie infime du travail qu’effectuent les intermédiaires des offices de brevets.
+Les agents des offices drevets évaluent la nouveauté des brevets déposés, vérifient leur conformité aux règlements et auolitiques de la région et publient des archives consultables des brevets acceptés, le tout constituant umportant travail que la technologie de la chaîne de blocs ne saurait remplacer.
+Élaboration d’une politique d’anticipation
+Les systèmes de brevets actuels pourraient devenir plus efficaces à l’aide de la technologie de la chaîne blocs, qui pourrait également permettre aux offices de brevets d’offrir des services de preuv’existence à moindre coût.
+Cependant, il convient de souligner que la preuve d’existence au moyee d’une chaîne de blocs, ou même par tout autre moyen, ne saurait être considérée comme équivalant
+à la protection par brevet.
+Pour que les services de preuve d’existence fournis par des tiers, par exempleux qui reposent sur la chaîne de blocs du bitcoin, soient considérés comme des registres légitimes, ilevront être reconnus par les organes pertinents.
+4. Vote électronique: vers une révolution du système électoral?
+En dépit de la numérisation de nombreux aspects importants de la vie moderne, les élections se tiennenncore largement hors ligne, sur du papier.
+Depuis le début du siècle, le vote électronique est considéré comme une avancée prometteuse, voire inévitable, qui pourrait accélérer et simplifier les élections et eéduire le coût.
+Il est en effet vu comme un moyen potentiel d’augmenter la mobilisation et le taux darticipation, et même de rétablir les liens entre les citoyens et les institutions politiques – derguments parfois accueillis avec un certain scepticisme.
+Le vote électronique peut se dérouler différentes façons: par internet ou un réseau isolé dédié; en demandant aux votants de se rendre dann bureau de vote ou en permettant le vote sans supervision; au moyen d’appareils existants, commes téléphones et ordinateurs portables, ou avec du matériel spécialisé. Aujourd’hui, une autre questioe pose: faut-il continuer de faire confiance aux autorités centrales, ou faut-il avoir recours à lechnologie de la chaîne de blocs pour mettre à la disposition des citoyens un registre de vote ouvert?
+De nombreux experts s’accordent à dire que l’organisation d’un vote électronique à l’occasio’élections nationales nécessiterait des avancées révolutionnaires en matière de systèmes de sécurité.
+Cependant, de nombreux autres types de scrutins régionaux et au sein des organisations pourraient êtrumérisés plus facilement au moyen de la chaîne de blocs, ce qui faciliterait la participation d’un plurand nombre de personnes à la prise de décisions importantes, à l’adoption de stratégies à long termeux choix d’investissement et aux nominations à différents postes.
+Comment la technologie de la chaîne de blocs pourrait être utilisée dans le cadre dote électronique
+La chaîne de blocs est un moyen de tenir et de vérifier un registre qui est transparent et distribué entres utilisateurs.
+Habituellement, les votes sont enregistrés, gérés, comptabilisés et vérifiés par unutorité centrale.
+Le vote électronique à chaîne de blocs (Blockchain-enabled e-voting ou BEV) donneraiux électeurs eux-mêmes les moyens d’effectuer ces tâches en leur permettant d’obtenir leur propropie du registre des votes.
+Ce registre ne pourrait pas être modifié, étant donné que les autres votanteraient capables de déceler toute différence avec leur version.
+Un bulletin frauduleux ne pourrait paon plus être ajouté, car les autres électeurs pourraient s’apercevoir qu’il n’est pas compatible avec leègles du vote, que ce soit parce qu’il a déjà été comptabilisé ou parce qu’il n’est pas associé à un électeualide.
+Le système BEV réduirait ainsi le pouvoir et la responsabilité des acteurs centraux comme leutorités électorales, au profit d’un consensus communautaire fondé sur la technologie.
+Il est possible de mettre au point des systèmes BEV en élaborant un nouveau mécanisme spécialemenonçu pour prendre en compte les caractéristiques propres à l’élection et aux électeurs.
+Une autrpproche qui pourrait être plus simple et moins coûteuse serait d’utiliser une chaîne déjà établie, tellue le bitcoin.
+Étant donné que la sécurité d’un registre distribué repose sur l’ampleur de sa bas’utilisateurs, une telle approche pourrait également s’avérer plus sûre dans le cadre d’électionineures au sein d’organisations qui comptent un nombre restreint de votants et possèdent des moyenimités pour développer un système idoine.
+Le système BEV présente le plus grand potentiel pour les élections tenues dans des organisations.
+Il éjà été utilisé dans le cadre d’élections internes de partis politiques au Danemark et pour le vot’actionnaires en Estonie.
+Pour aller plus loin, le BEV pourrait être associé à des contrats intelligentsfin de déclencher des actions automatiquement si certaines conditions sont réunies.
+Par exemple, leésultats d’une élection pourraient entraîner la mise en œuvre automatique de promesses électoralese choix d’investissement ou d’autres décisions organisationnelles.
+De nombreux analystes considèrent que la chaîne de blocs pourrait favoriser des transformations plurofondes, par exemple dans le cadre des débats relatifs aux administrations virtuelles, aux systèmeechno-démocratiques ou à la possibilité plus distante de recourir au système BEV lors d’électionationales.
+Des idées ambitieuses évoquent la possibilité d’utiliser la chaîne de blocs pour mettre elace une démocratie «liquide», qui associerait la démocratie directe (au titre de laquelle les citoyenotent régulièrement pour des décisions stratégiques spécifiques) et un système de délégués (quermettrait aux citoyens de voter eux-mêmes sur ces questions ou de déléguer leur vote à n’importuel autre citoyen, que ce soit un politique, un journaliste, un scientifique ou un ami de confiance, et detirer ou réassigner ce mandat à tout moment).
+Incidences et évolutions possibles
+Dans le cadre d’élections mineures et de décisions au sein d’organisations, le BEV pourrait contribuer à établir une structure sociale plus participative et ascendante en offrant un système de vote électroniquûr et relativement peu coûteux.
+En ce qui concerne les suggestions plus ambitieuses vis-à-vis des
+élections nationales, les enjeux sont bien plus importants et la situation plus délicate.
+Certains ont remin question le degré d’anonymat et d’accessibilité permis par le BEV et soulevé le problème de loercition.
+Toutefois, bien que le BEV présente divers avantages par rapport au papier et aux autreystèmes de vote électronique, nombre des préoccupations qu’il soulève s’appliquent aussi bien auystèmes traditionnels basés sur le papier.
+La coercition est un danger pour n’importe quel système dote à distance, comme les votes postaux par exemple.
+La seule garantie à cet égard est l’isoloir, que coit pour le BEV ou le vote à bulletin papier.
+L’accessibilité de tous les électeurs est une autrréoccupation majeure de toute élection.
+Selon le type d’interface, le BEV pourrait être considéré paertains électeurs comme trop compliqué, a fortiori si le système est entièrement décentralisé et permet d’accéder aux données afin de vérifier que les procédures ont été correctement suivies.
+L’anonymat esouvent considéré comme étant un élément clé de la participation démocratique, bien que certaines
+élections nationales ne soient pas entièrement anonymes.
+Le Royaume-Uni, par exemple, dispose d’uystème de vote papier sous pseudonyme, où chaque bulletin est lié par un code à une entrée sur la liste
+électorale.
+Dans ce cas, les électeurs n’ont pas d’autre choix que de faire confiance aux autorités
+électorales pour la protection de leur anonymat.
+Même s’il est difficile de découvrir sur qui les votes sont portés, cela reste possible.
+Comme le BEV est également un vote sous pseudonyme, il serait
+éventuellement possible de pour qui une personne a voté. Des travaux sont menés afin d’apporter unéponse technique à ce problème en développant des systèmes de BEV qui garantissent un anonymaotal.
+Une autre méthode pourrait consister à confier à une autorité centrale la responsabilité d’affectees pseudonymes utilisés dans le cadre d’un scrutin par BEV et de les garder secrets, comme c’est le caujourd’hui pour le système de vote papier du Royaume-Uni.
+Le système ferait ainsi l’objet d’un certaiegré de centralisation, qui pourrait toutefois être acceptable dans le cadre d’élections nationales.
+Une autre question qui se pose est celle de la marche à suivre en vue d’instaurer une confiancénéralisée envers la sécurité et la légitimité du système.
+Tout comme c’est le cas pour les électionapier, il ne suffit pas que le résultat soit juste et valide.
+L’électorat dans son ensemble, même s’il eséçu du résultat, doit accepter que le processus est légitime et fiable.
+Ainsi, au-delà de la sécurité et da précision qu’il doit apporter, le BEV doit également inspirer confiance.
+La complexité du protocole la chaîne de blocs pourrait être un frein à l’acceptation du BEV par le grand public.
+L’analyse des effets potentiels du BEV doit prendre en compte les valeurs et les politiques que cystème promeut.
+Le BEV est plus qu’une simple numérisation du processus électoral traditionnel: iropose une méthode de vote qui s’accompagne d’un ensemble différent de valeurs et de fondementolitiques.
+Traditionnellement, les pouvoirs publics organisent les élections et le processus est opaqueentralisé et descendant.
+Le BEV propose l’inverse.
+Le processus est géré par le peuple et il esransparent, décentralisé et ascendant.
+Alors que la participation aux élections classiques renforc’autorité de l’État, la participation au BEV assoit la primauté du peuple.
+Ainsi, il n’est guère surprenanue des liens soient établis entre le BEV et la transition vers une démocratie plus directe, décentralisét ascendante, ainsi que vers la démocratie «liquide» susmentionnée.
+Dans tous les cas, l’importancue prendra la technologie de la chaîne de blocs dans le domaine du vote électronique dépendra de sapacité à refléter les valeurs et les structures de la société, de la politique et de la démocratie.
+Élaboration d’une politique d’anticipation
+Même si les organisations sont largement libres de tenir des élections au moyen de la chaîne de blocs sel est leur désir, elles doivent cependant se conformer aux lois européennes en matière donfidentialité et de sécurité des données.
+Bien que le droit européen ne dispose pas de protocoleéfinis pour la tenue des élections politiques dans les États membres, une convergence s’est opérée ees efforts ont été consentis afin d’encourager l’utilisation du vote électronique dans le respect derincipes constitutionnels de la loi électorale (suffrage universel direct, libre, secret et équitable).
+5. Contrat intelligents: là où le code informatique fait loi
+Les registres distribués présentent plusieurs caractéristiques intéressantes et innovantes par rapport auegistres centralisés.
+Toutefois, au-delà de la simple consignation de l’horodatage et des détails deransactions, ils peuvent également jouer un rôle plus actif, voire autonome, dans la gestion et l’exécutioes transactions.
+En incorporant du code informatique à la chaîne de blocs, des transactions peuvent
+être exécutées automatiquement lorsque certaines conditions sont remplies, ce qui offre une «garanti’exécution». Ces contrats intelligents qui s’exécutent automatiquement en tirant parti de cettonctionnalité connaissent un développement rapide.
+Toutefois, des questions se posent concernant lrontière entre le code informatique et la loi.
+Comment fonctionnent-ils?
+Bien que les contrats intelligents puissent faire référence à plusieurs concepts différents, ils ont été définis en 1994 comme des protocoles de transactions informatiques qui exécutent les modalités d’uontrat – une définition qui reste d’actualité dans le contexte de la technologie de la chaîne de blocs.
+Soueur forme la plus simple, les modalités d’un accord entre deux ou plusieurs parties sont programméeans du code informatique (jeu d’instructions) qui est inscrit dans une chaîne de blocs de la mêmanière que les transactions sont normalement enregistrées dans d’autres chaînes.
+Lorsque certaineonditions décrites dans le code sont remplies, des actions spécifiques, elles aussi définies dans le codeont automatiquement déclenchées.
+Ainsi, par exemple, la livraison de produits pourrait déclencher unnstruction de paiement.
+Cela pourrait ensuite déclencher d’autres actions contenues dans d’autreontrats intelligents, par exemple en vue d’échanger des devises ou de passer d’autres commandes long de la chaîne d’approvisionnement.
+Bon nombre des cas proposés d’applications à court terme sencontrent dans le secteur financier, par exemple dans le cadre de prêts et de produits d’assurance quobilisent d’importantes ressources manuelles qui pourraient être automatisées.
+Les contratntelligents pourraient être la clé de l’automatisation des successions, pour lesquelles l’enregistremenu certificat de décès déclencherait la distribution des biens, y compris des contenus numériques.
+La chaîne de blocs Ethereum propose son propre langage de programmation et sa propre monnaie, qunt été spécialement conçus pour les contrats intelligents.
+D’autres systèmes de contrats intelligenteposent sur d’autres chaînes de blocs, y compris celle du bitcoin.
+À l’heure actuelle, la mise en place dontrats intelligents demande un certain effort et entraîne des dépenses, ce qui les rend plus adaptés à des accords répétitifs plutôt qu’à des contrats ponctuels.
+Au vu de leur nature prédéterminée, ils sonnappropriés aux situations qui sont sujettes à des changements importants pendant la durée du contrat.
+Ainsi, au vu du degré d’incertitude juridique, il serait plus prudent de restreindre les contratntelligents à des relations relativement consensuelles et à des accords qui courent peu de risques d’êtrontestés par l’une ou l’autre des parties.
+Enfin, étant donné qu’ils réagissent à des stimuli numériquet déclenchent d’autres procédures numériques, ils sont particulièrement efficaces dans les situations où les différentes modalités et conséquences des clauses sont elles aussi de nature numérique, et sont donarticulièrement adaptés à l’automatisation numérique.
+Incidences et évolutions possibles
+Étant donné le caractère immuable de la chaîne de blocs, le code sur lequel les parties s’accordent, eonc le contrat qui les lie, peut seulement être annulé ou modifié selon des termes contenus dans le codui-même.
+Les contrats traditionnels offrent le choix de payer ce qui est dû conformément autipulations du contrat, ou de ne pas remplir ses obligations contractuelles et de faire face auonséquences, par exemple sous la forme d’une action en justice.
+Cependant, ce choix n’existe plus dann contrat intelligent au paiement automatisé, car la transaction est exécutée systématiquement.
+Une interprétation radicale des contrats intelligents réduirait le contrat à son code informatique, ce qui
+équivaut à déclarer que le code fait loi: il est autonome, automatiquement exécuté et automatiquemenppliqué. Ce pourrait être la position d’une frange «extrémiste» du mouvement populaire qui soutiena chaîne de blocs, qui se placerait alors au-delà du contrôle exercé par les structures en place telles ques États et les juridictions.
+Lorsque le code informatique est considéré comme étant la loi, toute erreuu vulnérabilité accidentelle devient elle-même partie du contrat.
+L’exploitation de ces bogues en vue prendre le contrôle de biens ne pourrait être jugée comme un vol, car l’erreur qui l’aurait permiserait partie du code et donc, par définition, de la «loi». Les contrats intelligents pourraient égalemenontenir des clauses illégales, comme dans le cas d’un code de distribution de succession qui n’acquitterait pas des droits de succession prévus par la juridiction concernée.
+Une interprétation plus réaliste des contrats intelligents consiste à les intégrer au système juridiquxistant.
+Tout comme pour les contrats papier, des clauses supplémentaires peuvent être imposées, et d’autres peuvent être annulées ou réinterprétées selon l’intention des parties et d’après les principeénéraux de la loi.
+La loi du pays l’emporte toujours sur la «loi» inscrite dans le code informatique, ompris dans les cas où les procédures judiciaires et l’application des décisions pourraient s’avéreifficiles.
+Ainsi, bien qu’il soit largement reconnu que les contrats intelligents apporteront des gain’efficacité dans différents domaines, il est peu probable qu’ils remplacent le droit contractueraditionnel ou les avocats spécialisés dans les contrats.
+À la différence des chaînes de blocs simples qui enregistrent des transactions, les chaînes qui incorporenu code exécutable présentent un degré supplémentaire de complexité et nécessitent davantag’intervention.
+Elles pourraient ainsi demander plus de puissance de calcul pour le minage et l’entretieu système, ce qui pourrait entraîner des coûts d’utilisation plus élevés, y compris en énergie.
+Cettomplexité pourrait également exposer les chaînes de blocs à un plus grand nombre de risques décurité, ce qui, en conjonction avec l’idéologie selon laquelle «le code fait loi», pourrait confronter leontrats intelligents à de graves problèmes pratiques.
+Ces problèmes pourraient se dissiper au fur et à mesure de l’élaboration des normes et de l’apparition de la première génération «d’avocats intelligents»ormés et rompus à la gestion des contrats intelligents.
+Élaboration d’une politique d’anticipation
+Plusieurs pans de la loi risquent d’être exploités dans les cas où le contrat n’est pas considéré commelevant d’une juridiction traditionnelle.
+Citons par exemple la fiscalité (des salaires, des ventes, deuccessions et des plus-values), l’exploitation (en matière de location et de contrat de travail) et lriminalité d’entreprise (en ce qui concerne la fixation des prix et le délit d’initié). Il pourrait êtrécessaire de trouver de nouveaux moyens d’affirmer la primauté du droit national dans le cas où l’automatisation des contrats intelligents rend l’application de la loi difficile.
+L’application derocédures judiciaires traditionnelles aux contrats intelligents pourrait faire naître de nouvelleesponsabilités étatiques, comme l’arbitrage dans les situations où des bogues sont décelés dans le codu contrat.
+En transcrivant les accords au sein du code exécutable, les programmeurs prendraient deécisions quant aux modalités pratiques de leur mise en œuvre, ce qui leur conférerait une plus grandesponsabilité aux yeux de la loi.
+Les contrats intelligents peuvent s’avérer peu souples et peu à même de s’adapter à l’évolution deirconstances ou des désirs des parties.
+Toutes les questions ne peuvent pas trouver une réponse à l’avance, et il se produira toujours des imprévus qui nécessiteront d’interpréter la façon d’appliquer lelauses contractuelles.
+Le code informatique est tout simplement trop rigide pour permettre l’exécutiolgorithmique de tous les contrats.
+Le règlement des litiges contractuels et l’application des clauseontractuelles pourraient se compliquer au fur et à mesure des évolutions dans le domaine.
+Le droit traditionnel des contrats, notamment la règle de conservation des documents et la règle de lreuve, pourraient nécessiter des modifications en vue de prendre en compte la nature automatisée eéterministe des contrats intelligents, de même que les problèmes soulevés par leur validité et leur forcxécutoire.
+Le droit doit répondre aux difficiles questions qui se posent vis-à-vis du lien à établir avee monde physique, réaliser les procédures de validation nécessaires et garantir la conformité depplications de la chaîne de blocs à la législation en vigueur.
+Le code informatique doit-il être vu comma forme de droit la plus tangible, comme le considère Lawrence Lessig? Il est clair que des critèreoivent être définis afin de garantir la validité légale et la force exécutoire des contrats intelligents eertu de la loi.
+6. Chaînes d’approvisionnement: vers la transparence et lesponsabilité?
+Le commerce international s’appuie sur une chaîne d’approvisionnement estimée à 16 billions d’euros.
+Les biens sont produits et distribués au moyen d’un vaste réseau de producteurs, détaillantsistributeurs, transporteurs et fournisseurs organisé selon un agencement complexe de procédureégissant la gestion des contrats, des paiements, de l’étiquetage, de l’emballage, de la logistique et de lutte contre la contrefaçon et contre la fraude.
+L’ampleur et la complexité des systèmes en question entraînent des frais de transaction élevés, derreurs et des décalages fréquents dans les formalités administratives effectuées à la main, ainsi que deertes dues aux dégradations et aux vols tout au long du processus.
+Au rang des autres problèmeencontrés, on compte les conditions de travail abusives ou dangereuses; les dégâts environnementauausés par la mauvaise utilisation des ressources ainsi que par les processus d’extraction et droduction illégaux; les faux et les imitations ainsi que les risques sanitaires entraînés par la mauvaisestion de la chaîne d’approvisionnement.
+Ces problèmes trouvent souvent une illustration dans dencidents très médiatisés, par exemple au sein des chaînes d’approvisionnement de l’alimentation, dextile et des diamants.
+Certains estiment que les normes et les certifications ont eu un effet positif sua différenciation du choix et la sensibilisation du consommateur, mais ces procédures demeurent eratique très coûteuses et peu fiables, notamment dans les régions qui souffrent d’une corruptioalopante.
+Les «chaînes de contrôle», qui garantissent l’origine de chaque produit ou matériau, restenragmentées entre les organisations et vulnérables à la fraude et aux erreurs, même lorsque cette chaînelie une entreprise certifiée à une autre.
+De plus en plus de voix s’élèvent pour demander des chaîne’approvisionnement en biens et en services plus sûres, plus fiables et plus transparentes.
+Il s’agit davoir si la technologie de la chaîne de blocs peut réellement améliorer le secteur actuel d’approvisionnement et de la logistique en réduisant l’inefficacité opérationnelle et la fraude, voire eépondant à des défis majeurs comme les pratiques de travail contraires à l’éthique et la dégradation d’environnement.
+Comment la chaîne de blocs pourrait permettre de gérer les chaîne’approvisionnement
+Les applications de la chaîne de blocs pourraient permettre d’améliorer les chaînes d’approvisionnemenn fournissant l’infrastructure nécessaire à l’enregistrement, à la certification et au suivi à moindre coûes biens transférés entre des parties souvent éloignées, qui sont reliées par une chaîn’approvisionnement mais ne se font pas confiance pour autant.
+Chaque bien est identifié par un «jeton» qui peut être transféré sur la chaîne de blocs, chaque transaction étant vérifiée et horodatée au moye’une méthode chiffrée mais transparente.
+Les parties prenantes peuvent y accéder, qu’elles soienournisseurs, vendeurs, transporteurs ou acheteurs.
+Les termes de chaque transaction restenrrévocables et immuables et peuvent être inspectés par tout un chacun ou par les auditeurs habilités.
+Les contrats intelligents pourraient également être employés pour automatiser le paiement ainsi qu’autres procédures.
+Incidences et évolutions possibles
+Plusieurs entreprises, innovateurs et administrateurs mènent déjà actuellement des expériences de tenue registres distribués au sein de leurs chaînes d’approvisionnement.
+Everledger permet aux entrepriset aux acheteurs de suivre l’acheminement des diamants de la mine jusqu’à la bijouterie et de lutteontre la fraude aux assurances et la fraude documentaire.
+Pour chaque diamant, Everledger mesure 40 caractéristiques, comme la taille, la clarté, l’angle de la culasse et le lieu d’origine.
+Un numéro de sérist généré pour chaque diamant, gravé à l’échelle microscopique, puis ajouté sous sa forme numérique à la chaîne de blocs d’Everledger, qui recense aujourd’hui 280 000 diamants.
+Cela permet d’établir e’entretenir un historique exhaustif de la propriété, qui facilite la lutte contre la fraude et apporte unide aux policiers et aux enquêteurs d’assurance dans la recherche des gemmes volées.
+Leonsommateurs peuvent alors prendre la décision d’acheter en toute connaissance de cause, et, paxemple, de limiter leur recherches aux diamants à l’historique «propre», sans fraude, vol, travail forcé ni intervention de vendeurs douteux liés à la violence, à la drogue ou au trafic d’armes.
+L’entreprise sociale londonienne Provenance a créé une plateforme en temps réel qui récupère eétermine l’origine d’un bien en lui affectant un jeton, ou «passeport numérique», qui peut être suivout au long de la chaîne d’approvisionnement jusqu’à l’arrivée à destination.
+Cela pourrait servir à contrecarrer la fraude dans le cadre de la vente de biens à l’appellation d’origine protégée, comme c’esouvent le cas pour des spécialités régionales comme le vin et le fromage.
+SmartLog incorpore deontrats intelligents dans les conteneurs de marchandises pour suivre leur emplacement et leurnvirons à des fins de planification des ressources.
+La chaîne de blocs est également utilisée en vue dinimiser les risques de paiement: certaines entreprises comme Skuchain et Fluent offrent ainsi deoyens reposant sur cette technologie pour le financement de la chaîne d’approvisionnement et leaiements.
+Par ailleurs, dans le cadre d’un autre projet, un système est en cours d’élaboration afin dationaliser le traitement manuel des documents en établissant une chaîne de blocs privée pour partagees informations entre les exportateurs, les importateurs et leurs banques.
+Premier détaillant au monde,
+Wal-Mart met actuellement à l’essai la chaîne de blocs afin d’assurer la sécurité des aliments.
+S’il esrécis et tenu à jour, un registre fondé sur la chaîne de blocs peut permettre l’identification d’un produit’une livraison et d’un vendeur, par exemple en cas d’intoxication, afin de déterminer où et quand lourriture a été produite et qui l’a inspectée.
+Un registre précis pourrait également accroître l’efficacité de la chaîne d’approvisionnement, accélérant ainsi la livraison de la nourriture dans les magasins eéduisant le gaspillage et les déchets.
+Les systèmes de chaîne de blocs possèdent les capacités nécessaires pour améliorer l’efficacité derocédures d’approvisionnement, de logistique et de paiement, réduire le traitement manuel deocuments d’import/export, garantir la conformité et la livraisons des biens et éviter les pertes.
+Ilonstituent, à ce titre, un moyen de réduire les coûts, d’améliorer la sécurité et de minimiser la fraude.
+Ils peuvent aussi permettre de vérifier l’authenticité et l’origine des biens et des services ainsi que leuonformité à des normes éthiques.
+Un historique de propriété transparent et traçable révélerait tout cae fraude, de vol, de recours au travail forcé, tout lien avec la violence, la drogue, le trafic d’armes oout autre activité douteuse, ce qui renforcerait la capacité de faire respecter la loi et favoriserait unonsommation plus responsable.
+Cependant, plusieurs raisons incitent à une certaine prudence.
+Lonfiance entre les participants repose sur la confiance vis-à-vis de la technologie de la chaîne de blocsais celle-ci n’est pas entièrement exempte de vulnérabilités, comme les erreurs accidentelles et liratage.
+L’automatisation ne garantira pas l’élimination des bogues, des conflits d’intérêts ou de lorruption au sein de la chaîne logistique mondiale.
+La chaîne de blocs fonctionne selon un principe de «pseudonymat»: toutes les transactions sonransparentes, mais elles ne sont pas liées explicitement à des personnes ou à des organisations donde réel, ce qui protège l’identité des parties prenantes à la chaîne d’approvisionnement sanompromettre l’intégrité du registre.
+La vérification des caractéristiques et des mouvements des bieneut être dissociée de l’identité des utilisateurs, dans la mesure où la chaîne de blocs peut masquer leonnées sensibles à caractère personnel qui ne sont pas nécessaires à la tenue du registre.
+Cet anonyma’est toutefois pas absolu, et, au prix de quelques efforts, il est possible de faire le lien entre deransactions et les parties concernées.
+Ce mécanisme est largement considéré comme une amélioratiou système actuel, mais il pourrait avoir des conséquences en ce qui concerne la vie privée.
+Une fois ques biens atteignent le consommateur, le suivi détaillé doit s’arrêter ou, du moins, se conformer auormes en matière de confidentialité et de sécurité des données.
+Élaboration d’une politique d’anticipation
+La mise en œuvre de la chaîne de blocs dans le cadre de la gestion de la chaîne d’approvisionnemenrésente des défis réglementaires importants.
+Des règlements comme la directive européenne sur lublication d’informations non financières pourraient avoir des effets sur le déploiement des chaînes dlocs dans les chaînes logistiques.
+Cette directive impose aux entreprises de publier des informationiables sur les aspects sociaux et environnementaux, les questions de personnel, le respect des droits d’homme et la lutte contre la corruption, en vue de les inciter à davantage de transparence dans leurpérations.
+À l’avenir toutefois, l’absence d’intermédiaires à toutes les étapes ou presque de la chaînogistique pourrait susciter un certain doute chez les parties prenantes, notamment pour ce qui est deormes automatisées d’exécution et de supervision des transactions.
+Dans la plupart des cas, les notiont les mécanismes de responsabilité en cas d’imprévu doivent non seulement être définies, mais aussaire l’objet de possibles révisions.
+7. Chaîne de blocs et État: repenser les services publics
+Dans le contexte de l’ouverture des données, des services et des décisions du secteur public au moyees technologies numériques, une nouvelle génération de services gouvernementaux en ligne ouvertsesponsables, transparents et collaboratifs est en cours d’élaboration.
+Le conseiller scientifique en cheu gouvernement du Royaume-Uni a récemment publié un rapport qui donne un aperçu des nouveautils que la technologie de la chaîne de blocs pourrait permettre de créer en vue de réduire la fraude’éviter les erreurs, de diminuer les frais de fonctionnement, d’accroître la productivité, d’encourager lespect des règlements et d’imposer la responsabilité dans de nombreux services publics.
+Lepplications possibles concernent la perception des impôts, la gestion de l’identité, le versement derestations, les monnaies locales ou nationales, les titres de propriété, le cadastre ainsi que toutes sorte’archives administratives.
+La même technologie pourrait permettre à des acteurs noouvernementaux de fournir des services quasi-étatiques, allant du notariat à la création d’unitoyenneté et d’une identité mondiales.
+Il reste à voir ce que les chaînes de blocs pourront apporter aecteur public.
+Comment la technologie de la chaîne de blocs pourrait contribuer aux serviceublics
+Les données utilisées par les institutions publiques sont souvent fragmentées en interne et opaques poues autres acteurs, notamment les citoyens, les entreprises et les organismes de surveillance.
+Lechnologie de la chaîne de blocs pourrait permettre de créer et de vérifier des registres avec davantage rapidité, de sécurité et de transparence.
+En effet, l’application la plus directe de cette technologie aein des administrations publiques concerne la tenue des registres.
+L’horodatage associé aux signatureumériques sur des registres accessibles devrait offrir des avantages à tous les utilisateurs, en leuermettant de réaliser des transactions et de créer des documents (par exemple des extraits de cadastrees certificats de naissance ou des permis professionnels) et de réduire la dépendance aux avocats, auotaires, aux fonctionnaires administratifs ou aux autres tiers.
+L’État estonien s’est lancé dans une expérience de mise en œuvre de la chaîne de blocs qui vise à permettre aux citoyens d’utiliser leur carte d’identité pour commander des ordonnances médicalesoter, utiliser des services bancaires, demander des prestations sociales, immatriculer des entreprisesayer des impôts et accéder à environ 3 000 autres services.
+Le dispositif permet également auonctionnaires d’encrypter des documents, d’examiner et d’approuver des permis, des contrats et deemandes ainsi que de soumettre des requêtes à d’autres services.
+Il s’agit là d’un exemple de chaîne dlocs à permissions, dont une partie de l’accès est restreint afin de préserver les données et de protégea vie privée des utilisateurs.
+Qui plus est, le rôle de l’État en tant qu’autorité de contrôle du systèmontraste avec la structure ascendante de bon nombre d’initiatives prônées par la communauté qui participe au développement de la chaîne de blocs.
+Néanmoins, alors que le système est en passe d’êtrnstallé chez les notaires et utilisé pour la gestion des dossiers médicaux, il demeure l’une des initiativee gouvernement les plus avancées en matière d’utilisation de la chaîne de blocs.
+Plusieurs pays dont le Ghana, le Kenya et le Nigeria ont commencé à utiliser la chaîne de blocs pour lestion de leur registre foncier.
+Ils espèrent ainsi créer un registre de la propriété clair et fiable afin désoudre les problèmes d’enregistrement, de corruption et d’accès du public aux archives.
+La Suèdène également des essais visant à consigner les ventes immobilières dans la chaîne de blocs, pouermettre à toutes les parties (banques, État, agent immobilier, vendeur et acheteur) de suivre l’avancée la transaction à chacune de ses étapes et de garantir l’authenticité et la transparence de la procédurout en réalisant des économies non négligeables de temps et d’argent.
+Le ministère britannique du travail et des retraites a lui aussi fait tester la chaîne de blocs pour lersement des prestations sociales.
+Dans cette expérience, les citoyens utilisent leur téléphone pouecevoir et dépenser leurs prestations et, avec leur accord, les transactions sont consignées dans uegistre distribué. Cette initiative a pour objectif d’aider ces personnes à gérer leurs finances et de créen système de prestations sociales plus sûr et efficace, d’éviter la fraude et d’améliorer la confiance entres bénéficiaires et l’État.
+Le gouvernement britannique étudie également des moyens d’utiliser lechnologie de la chaîne de blocs pour suivre l’affectation des fonds octroyés par le gouvernement, deonateurs et des organisations humanitaires ainsi que leur dépense par les bénéficiaires, que ce soit soua forme de subventions, de prêts ou de bourses d’études.
+Incidences et évolutions possibles
+L’introduction de la technologie de la chaîne de blocs dans les administrations publiques pourraiboutir à la rationalisation des procédures internes, à la réduction des frais de transaction, à unonfiance accrue envers les interactions et les échanges de données avec d’autres organisations et siloe données étatiques ainsi qu’à une meilleure protection contre les erreurs et les faux.
+Certainerocédures pourraient par ailleurs être automatisées à l’aide des contrats intelligents.
+Il convienependant de tenir compte de certains risques.
+Premièrement, la migration vers un nouveau système degistre numérique entraîne des frais de mise en service et, durant cette phase de transition, lonctionnement des systèmes de sauvegarde et de deux systèmes en parallèle pourrait donner lieu à deifficultés techniques et procédurales.
+De plus, il est important que les attentes en matière donservation et de contrôle des archives publiques telles que définies lors de la création de ces archiveontinuent d’être respectées en toutes circonstances.
+Enfin, étant donné que la technologie ne conservue des condensés (décrits dans la partie sur les brevets) ou d’autres représentations numériquencomplètes des documents, les personnes et les organisations privées devront allouer davantage dessources à la conservation des documents à long terme.
+La chaîne de blocs permet de consigner l’horodatage et les détails d’une transaction, mais elle n’offras la possibilité de vérifier l’exactitude de ce que contient cette transaction.
+Tant que la transactioépond aux exigences techniques du protocole, elle devient une entrée immuable dans le registre, quellue soit la véracité de son contenu.
+De la même manière que toutes les demandes et les soumission’informations à la fonction publique sont examinées avant d’être acceptées, il convient de garantir uxamen adéquat lors de l’acceptation et du partage d’informations sur la chaîne de blocs correspondante.
+Même s’il sera éventuellement possible un jour de permettre l’automatisation de certaines de cerocédures et de les sécuriser, elles ne sauraient remplacer les les fonctionnaires dans leur rôle de garde-fou.
+L’immuabilité des données de la chaîne de blocs, qui signifie qu’elles ne peuvent pas être altérées offacées une fois consignées, instaure la transparence et la responsabilité. Cependant, elle pourrait
+également compromettre la confidentialité et la protection des données, en particulier lorsqu’il esuestion de données à caractère personnel ou sensible, qui ne devraient jamais être stockées dans la chaîne de blocs.
+La chaîne ne garantit pas l’anonymat, et plus les données sont personnelles, plus il esisé d’identifier la personne à laquelle elles appartiennent.
+Cette immuabilité pourrait mettre en péril lroit à l’oubli, en vertu duquel les utilisateurs peuvent, sous certaines conditions, demander que leuronnées personnelles soient effacées.
+Il est important de garantir l’accès de tous les citoyens aux services publics.
+La chaîne de blocs risquien de creuser le fossé numérique existant.
+Les citoyens qui n’ont pas accès à internet pour unuelconque raison pourraient ne pas être en mesure de jouir pleinement et directement des avantageu’offrent les avancées liées aux chaînes de blocs pour ce qui est du renforcement de leur contrôle sueurs propres données et transactions.
+Souvent, les services fondés sur la chaîne de blocs resteront cachéous des interfaces familières et conviviales.
+Les modalités précises de la mise en œuvre du protocolelativement à sa structure et à son interface d’utilisation présentent une grande importance sur le plaes valeurs politiques et sociales prônées par le système.
+Enfin, il convient de remarquer que certainenitiatives favorisent le contournement des institutions et des autorités traditionnelles et centralisées, ompris des États et des services publics.
+Des services quasi-étatiques fondés sur la chaîne de blocs eournis par des acteurs non gouvernementaux font déjà leur apparition.
+De telles offres pourraient noeulement séduire des communautés de plus en plus numérisées et mondialisées, mais aussi présentees enjeux complexes pour les pouvoirs publics.
+Élaboration d’une politique d’anticipation
+Les administrations publiques conserveront probablement un contrôle centralisé important sur la misn œuvre de leurs chaînes de blocs, et pourraient également demander l’installation de «porteérobées» dans les systèmes chiffrés privés à des fins d’application de la loi, même si ces mesureourraient introduire de nouvelles failles de sécurité. Le chiffrement de bout en bout pourrait également
+être envisagé dans le prochain réexamen de la directive européenne «vie privée et communications
+électroniques». Les pouvoirs publics pourraient étudier comment la chaîne de blocs peut améliorer leervices publics, notamment en insufflant davantage de transparence et de responsabilité, et pourraienhoisir de reconnaître ou non les services quasi-étatiques indépendants au sein de leur juridiction.
+8. Une chaîne de blocs omniprésente? Les organisationutonomes décentralisées
+La vision des premiers pionniers de l’internet était d’instaurer un nouvel ordre social composé d’organisations plus indépendantes, décentralisées et agiles par le truchement de technologies d’information et de la communication.
+Certains soutiennent que les modèles fondées sur les communu le pair à pair garantissent un meilleur usage des ressources, et d’autres développent déjà delateformes de coopératives qui sont détenues de manière collective et régies de manière démocratiquar leurs utilisateurs ou leurs travailleurs.
+La chaîne de blocs peut contribuer à de telles organisationn permettant l’échange direct et instantané de données ou de propriété, l’exécution de budgets’application automatique de contrats ou la prise de décision au sein des organisations, le tout sous unorme transparente et chiffrée.
+Cela pourrait-il préfigurer l’émergence de nouvelles organisationeposant sur la chaîne de blocs, et quels en seraient les conséquences pour la société européenne?
+Des registres décentralisés pour des organisations décentralisées
+Les organisations autonomes décentralisées (Decentralised autonomous organisations ou DAO) peuvent être vues comme un groupe de contrats intelligents formant un jeu de règles de gouvernancui sont appliquées et exécutées automatiquement au moyen de chaînes de blocs.
+Une DAO peut jouee rôle d’un médiateur entre différentes parties au sein d’une organisation certes décentralisée mais souontrôle humain, ou elle peut constituer une organisation totalement autonome dont le contrôle esntièrement dévolu à des algorithmes.
+Le degré d’autonomie et d’autosuffisance que les DAO pourront atteindre reste à établir.
+La DAO la plus aboutie, connue sous le nom de «The DAO», n’est pantièrement autonome, mais il n’est pas impossible d’imaginer que d’autres DAO, indépendamment doute intervention humaine, contrôlent à l’avenir leur propres ressources et interagissent avec d’autrentités humaines et non humaines, y compris d’autres DAO.
+Par exemple, une DAO pourrait possédene voiture autonome qui offrirait un service de taxi 24 heures sur 24. Elle dégagerait ainsi un revenu’elle utiliserait pour payer son carburant, ses réparations et son assurance, et épargnerait en vue demplacer le véhicule en fin de vie.
+Dans le cadre des DAO, la coopération entre les individus du système et entre les organisations peu’appuyer non pas sur une autorité centrale ou sur les forces pures du marché, mais sur le consensuryptographique et la transparence en tant que caractéristiques techniques de base.
+Les contratntelligents ancrés dans la chaîne de blocs offrent non seulement la possibilité de conserver unregistrement inviolable de tous les éléments d’une organisation, mais aussi d’exécuteutomatiquement, voire en autonomie totale, des opérations quotidiennes comme l’accès aux biens eux bâtiments, l’affectation des tâches, la gestion des actions et des droits de vote, la répartition deénéfices ou la transmission de micropaiements.
+Il a été avancé que la chaîne de blocs pourrait donner les moyens à une nouvelle génératio’organisations de changer les rapports économiques et de pouvoir qui structurent les organismeentralisés traditionnels.
+En voici quelques exemples: une plateforme sociale de partage de contenuultimédias possédée par ses utilisateurs, qui s’évaluent entre eux et sont automatiquement rétribuéour leurs contributions; des applications de covoiturage érigeant les conducteurs en copropriétaires eestionnaires des activités quotidiennes; ou encore d’autres communautés, comme Steem-it, au seiesquelles les utilisateurs sont également actionnaires et où les bénéfices et les prises de décisions sonartagés de manière transparente.
+Incidences et évolutions possibles
+La chaîne de blocs peut être utilisée pour élaborer des structures décentralisées à l’intérieur derganisations.
+Mais, par ailleurs, le recours à la chaîne pour chaque transaction pourrait limiter les flu’informations qui étaient jusqu’alors principalement libres.
+La supervision et le contrôle de toutransaction de n’importe quel bien ou contenu pourraient aboutir à des réclamations plus solides aitre du droit à la propriété intellectuelle, par exemple pour la gestion des droits numériques, eourraient freiner l’innovation et l’émergence de nouveaux acteurs.
+En s’émancipant du contrôlentralisé, les DAO pourraient éliminer les erreurs et la corruption dues aux humains.
+Les citoyenourneront leur confiance, jusqu’ici axée sur la réputation traditionnelle, vers les réseaux techno- sociaux, c’est-à-dire vers les contrats et les devises qui s’appuient sur la chaîne de blocs.
+Selon certainse changement pourrait créer de nouvelles formes d’action démocratique collective en transformant lepproches de gouvernance descendante, aujourd’hui critiquées pour leur manque de souplesse, leupacité, leur lenteur et leur déficit démocratique.
+Au cours de la plus importante campagne de financement participatif jamais organisée, The DAO écolté plus de 100 millions d’euros.
+Véritable hybride entre un site de financement participatif et uonds de capital-risque, cette organisation repose sur les contrats intelligents d’Ethereum.
+Learticipants au financement votent pour l’ensemble des décisions, qui vont de la nomination aicenciement des administrateurs en passant par le financement des projets.
+En juin 2016, une attaqunformatique a profité de failles dans le code de cette DAO et siphonné quasiment un tiers de ses actifse qui a suscité une controverse dans la communauté au sujet de la suite des opérations.
+Les options qu’offraient alors consistaient à geler les fonds du compte (un «soft fork»), à pirater le système et rétablies comptes d’origine (un «hard fork») ou à ne rien faire du tout.
+D’une part, étant donné que le ou lettaquants avaient profité d’une faille dans le code informatique, il pouvait être considéré que le contra’avait pas été rompu et qu’une modification de la chaîne de blocs de The DAO porterait atteinte à lonfiance du public à l’égard de son caractère immuable.
+D’autre part, l’attaque allait clairement à l’encontre de l’esprit du contrat, constituait une violation potentielle du droit contractuel et pouvaiécourager les participants ou ceux qui projetaient de participer à la communauté. Dans tous les cas’incident a mis en lumière les failles de sécurité existantes et mis à l’épreuve les fondations idéologiquee la communauté de développement de la chaîne de blocs.
+La résistance contre le recours aux structures légales existantes (par exemple, le fait de considérer leéveloppeurs et les mineurs principaux comme des fiduciaires) a suscité des appels en faveur décanismes différents ou plus sophistiqués, tels que des systèmes de réputation ou méritocratiqueisant à encourager la participation.
+Certains ont également appelé à l’adoption de normes et drincipes éthiques communs.
+Cependant, les mécanismes autonomes de ces organisations soulèvent
+également des questions concernant la délégation à des algorithmes et leur rôle réglementaire.
+Certainoutiennent qu’une gouvernance par le code s’accompagne de devoirs moraux ou d’une responsabilité morale de la part de la communauté lorsqu’il s’agit de prendre des décisions importantes, alors qu’autres travaillent à l’incorporation de valeurs humaines et de la volonté générale des citoyens danes contrats sociaux algorithmiques.
+Élaboration d’une politique d’anticipation
+À l’instar de nombreuses initiatives fondées sur la chaîne de blocs, les DAO existent dans une zone floue la réglementation qui pourrait n’offrir aucune garantie de protection ou de responsabilité, earticulier lorsqu’elles ne s’appuient pas explicitement sur des systèmes juridiques existants.
+Certainenquiétudes d’ordre juridique pèsent également sur l’émission d’actions par les cryptoentreprisesémarche qui pourrait les faire relever du cadre existant des marchés de valeurs mobilières et nécessiteu’elles s’enregistrent et se conforment à divers règlements et obligations.
+En intervenant en dehors dadre réglementaire, les organisations fondées sur la chaîne de blocs qui ne sont pas constituées oeconnues légalement pourraient être victimes d’escroqueries à l’investissement et d’attaquenformatiques, et leurs membres pourraient avoir à assumer des responsabilités en tant qu’associés.
+Certains appellent à davantage de surveillance et de transparence en ce qui concerne la prise de décisiolgorithmique et la modélisation interactive.
+La complexité des algorithmes de pointe rend difficileême pour les développeurs, la pleine compréhension des lois applicables et la vérification de leuespect du droit, par exemple eu égard aux lois anti-discrimination et aux lois sur la transparence.
+Lerganisations autonomes et auto-exécutoires pourraient également remettre en question les notionraditionnelles de personnalité juridique, de libre choix et de responsabilité.
+Des DAO pourraient être programmées pour le commerce de produits illicites ou interdits.
+Même s’anonymat n’est pas garanti, l’efficacité, l’automatisation et la structure distribuée de la chaîne de blocous-jacente pourrait empêcher les instances réglementaires d’appliquer la loi et de mettre fin à de tellepérations.
+Les victimes d’infractions perpétrées par des DAO pourraient également avoir deifficultés à obtenir des dommages-intérêts ou une injonction à l’encontre de la DAO malveillante dane cas où la capacité à prendre de telles mesures n’est pas spécifiquement programmée dans sa structure.
+Conclusions
+L’application de la chaîne de blocs la plus renommée, la plus utilisée et la plus percutante est le bitcoinais les retombées potentielles de la technologie sont plus importantes et plus vastes que la simplréation de monnaies virtuelles.
+En effet, étant donné que d’autres applications peuvent s’adosser à lhaîne de blocs du bitcoin, les principales répercussions du bitcoin pourraient survenir en dehors dhamp monétaire.
+Grâce à la chaîne de blocs, les transactions de tous types sont généralement pluapides et moins coûteuses et elles profitent de la sécurité offerte par le protocole.
+Si les transactionéalisées en Europe sont souvent rapides, peu coûteuses et suffisamment sécurisées pour la plupart detilisations, les utilisateurs et les partisans des applications de la chaîne de blocs trouvent souvent devantages dans sa transparence et son caractère immuable.
+On observe en effet une tendance à accorder moins de confiance aux institutions financières et de gouvernance et à nourrir un plus grand nombr’attentes sociales en matière de responsabilité et d’obligation de rendre des comptes.
+La popularité da technologie de la chaîne de blocs pourrait également témoigner de l’émergence d’une tendancociale qui donne la priorité à la transparence plutôt qu’à l’anonymat.
+Bien entendu, à chaque transaction effectuée au moyen d’un registre distribué en lieu et place d’uystème centralisé traditionnel, les intermédiaires et les médiateurs sont écartés et perdent leur sourcabituelle de pouvoir et de revenu.
+Pour les monnaies, ce sont les banques; pour les brevets, les officee brevets; pour les élections, les comités électoraux; pour les contrats intelligents, les personnexécutant les contrats; et pour les services publics, les autorités de l’État.
+Une croissance significative daux d’utilisation de la technologie de la chaîne de blocs pourrait changer radicalement la substanceoire le volume du travail des «cols blancs». Par exemple, une partie du travail des intermédiaires ees avocats spécialisés en droit des contrats pourrait être remplacée par des transactions de pair à pait par des contrats intelligents.
+De nombreux observateurs ne nourissent aucune inquiétude face à unelle perspective.
+Certains affirment que seules quelques-unes des tâches les moins intéressantecomme la fourniture de preuves de certification) seront affectées à la chaîne de blocs, ce qui dégageru temps pour les tâches essentielles à haute valeur ajoutée, comme la prestation de services sur mesure.
+Bien que la quantité totale de travail puisse s’en trouvée diminuée, d’autres observateurs citent leimilarités qui existent avec les vagues précédentes d’automatisation des postes des «cols bleus»
+(comme les lignes de production robotisées), où la réaffectation des tâches répétitives avait détruit demplois tout en créant de nouveaux postes qualifiés dans le domaine de la conception et de laintenance des systèmes nécessaires.
+Dans tous les cas, en dépit de la rareté des éléments de preuvea plupart des observateurs prévoient un changement de la nature des tâches effectuées par les humainais un maintien du nombre total d’emplois voire même une qualité accrue de ces emplois.
+Léveloppement de la chaîne de blocs pourrait également entraîner, de manière indirecte, unugmentation de la consommation d’énergie.
+En 2014, la consommation d’électricité de la chaîne ditcoin était comparable à celle de l’Irlande, et ce chiffre n’a fait qu’augmenter depuis.
+S’il est possible développer des algorithmes et du matériel plus économes, l’intensité énergétique des chaînes dlocs, et plus largement de tous les processus numériques, pourrait devenir un problème croissant.
+L’effet le plus profond du développement de la chaîne de blocs pourrait être lié aux changements subtilans les valeurs et les structures sociales, changements liés aux valeurs intrinsèques de la technologie.
+Toutes les technologies sont imprégnées de valeurs et de politiques, qui reflètent généralement lentérêts de leurs créateurs.
+Ainsi, la raison pour laquelle les systèmes de registre traditionnels placeneurs créateurs à une position d’intermédiaire central apparaît clairement: puisque toutes leransactions doivent passer par eux, les créateurs conservent leur position de pouvoir et la capacité direr profit des utilisateurs.
+Par l’utilisation de technologies, les individus réaffirment les valeurs et leolitiques qu’elles représentent.
+Chaque fois qu’un de ces registres est utilisé pour consigner unransaction, la centralité et le caractère indispensable de l’acteur en son centre sont réaffirmés.
+À l’évidence, un registre distribué dénué d’intermédiaire central est lui aussi chargé de valeurs e’orientation politique, car il s’appuie sur la confiance envers les technologies de chiffrement et de misn réseau et redistribue le pouvoir, jusqu’ici détenu par des autorités centrales, vers des structures dair à pair non hiérarchisées.
+Dans ce contexte, le recours à ce type de chaîne de blocs implique d’inscrire dans un mouvement plus large qui vise à réduire la confiance et le pouvoir dévolus aunstitutions traditionnelles comme les banques et les gouvernements.
+Les cas analysés dans le présenocument révèlent plusieurs exemples de la façon dont les applications fondées sur la chaîne de blocncarnent ces valeurs.
+Bien entendu, pour que ces changements soient perceptibles d’un point de vuocial plus général, il faudrait que la chaîne de blocs connaisse un développement considérable, au poine se retrouver d’un bout à l’autre de la vie quotidienne dans les tâches les plus prosaïques.
+Élaboration d’une politique d’anticipation
+Au premier abord, le caractère décentralisé, chiffré et auto-exécutable des applicationechnologiques de la chaîne de blocs semble dépendre ou jouer le rôle d’une approchutorégulatrice, qui devrait en principe exister parallèlement aux instruments juridiqueraditionnels.
+Cependant, un examen attentif des applications de pointe met en lumièriverses questions juridiques traditionnelles et nouvelles qu’il convient de prendre en compte manière contextualisée, étant donné que certaines de ces applications remettent en questioes principes fondamentaux du droit et éparpillent l’objet de l’attention des autorités déglementation, et ce de plusieurs manières.
+Tout d’abord, le caractère décentralisé et transfrontalier de la chaîne de blocs soulève deroblèmes juridictionnels, compte tenu de l’éparpillement sans précédent des responsabiliténstitutionnelles et juridiques, ce qui rend l’harmonisation de la réglementation à l’échellransnationale plus pertinente qu’aux échelles locale ou régionale.
+Si la technologie de lhaîne de blocs venait à se développer de manière considérable, les structures juridiqueentralisées pourraient perdre leur aptitude à contrôler le registre, laquelle serait transféréux utilisateurs ou à d’autres parties du système, ou leur capacité de façonner l’activité dersonnes hétérogènes ou d’organisations autonomes décentralisées, étant donné quersonne, ni même son créateur, ne peut exercer de contrôle sur le registre une fois qu’il a été mis en place.
+Il existera alors moins de points de contrôles susceptibles de guider et de soutenie flux de données.
+D’autres problèmes se posent également, comme le caractère exécutoires contrats intelligents ainsi que les questions de la responsabilité et de l’obligation de rendres comptes, qui ne peuvent pas pour l’instant être attribuées aux registres distribués, ceux-ce disposant de personnalité juridique.
+Ce problème est exacerbé par leur mode opératoirransfrontalier des contrats intelligents et par le fait qu’ils ne sont pas encore capables déaliser des opérations complexes.
+Les systèmes décentralisés fondés sur la chaîne de blocs pourraient être ouverts à la cooptatioar des puissances extérieures et, en l’absence de protection institutionnelle, ces plateformeourraient se transformer en oligarchies.
+Si elle s’avérait malveillante, une organisatioutonome décentralisée pourrait devenir une source de préoccupations réglementaires au vu potentiel d’utilisation détournée que présente cette technologie à forte capacité dhangement.
+De plus, les caractéristiques de chiffrement de la technologie de la chaîne de blocourraient priver les autorités de toute possibilité de surveillance légale à des fins doursuites ou d’application de la loi.
+La protection des consommateurs constituera une autrréoccupation importante des autorités de réglementation, car les clauses contractuelles et leesures de recours pourraient manquer de clarté pour le consommateur et, du fait d’automatisation, être difficiles à adapter aux possibles changements de situation.
+D’autreréoccupations réglementaires portent par ailleurs sur la sécurité, étant donné qu’il esossible de repérer ou de déduire l’identité d’une personne à partir de transactions.
+Enfin, lhaîne de blocs pourrait soulever des questions en ce qui concerne le choix de la législation ee la juridiction apte à régler les différends.
+Il convient de souligner que l’intérêt pour les applications fondées sur la chaîne de blocs semble souvenaire écho à un mécontentement vis-à-vis des systèmes, des procédures et des médiateurs traditionnels.
+Le développement de la chaîne de blocs présente souvent des similarités avec l’économie du partageans la mesure où toutes deux promettent de relier directement les individus, de contourner lentermédiaires et d’éviter, pour la population, un intervention des États, des banques et des autres institutions importantes, en s’appuyant souvent sur une rhétorique de transition, de dissociation, voire révolution.
+Cependant, comme on l’a vu, les initiatives les plus fructueuses de ce mouvement sonevenues une sorte d’intermédiaire ultime, structurellement très éloigné de la vision de décentralisatiou’attendaient de nombreux citoyens.
+Le même constat pourrait être fait pour la chaîne de blocs, dones principales retombées surviennent dans des applications qui semblent bien loin de la conceptiolus idéaliste d’une chaîne décentralisée et transparente.
+Par exemple, une autorité électorale pourraiettre en place un système de vote fondé sur une chaîne de blocs à permissions, en conservant lontrôle de la distribution de pseudonymes afin de garantir l’anonymat et en affirmant son rôl’autorité suprême et de médiateur central par lequel tous les votes doivent passer.
+Il ne s’agit pas dier le potentiel technique et les avantages politiques que présente une telle méthode.
+Au contraire, ellous rappelle que, dans une telle chaîne à permissions, les degrés de décentralisation et de transparencont moindres, ce qui a des conséquences sur la structure technique et sur les fonctionnalités du registreinsi que sur les valeurs et les politiques qu’il représente.
+Il est possible d’imaginer des équivalents poues registres des cadastres, des banques et des offices de brevets, dont chacun pourrait adapter des
+éléments techniques du protocole de la chaîne de blocs tout en modérant la portée idéaliste des valeuront elle est imprégnée.
+De tels systèmes resteraient probablement susceptibles d’offrir des avantagemportants en vue d’une amélioration de la transparence et de la responsabilité et d’une réduction da corruption.
+Aussi, en cooptant la chaîne de blocs, les institutions de gouvernance pourraient l’utilisefin de créer des «technologies de réglementation» dont la mise en œuvre viserait à remplir les mêmebjectifs réglementaires, par exemple de transparence et de responsabilité, que les lois existantes.
+Parce que la chaîne de blocs évince les intermédiaires, ceux-ci ne peuvent pas jouer un rôle de régulatiouant à son fonctionnement.
+Ainsi, de nouveaux outils réglementaires doivent être élaborés en vue daire respecter le droit et de conserver la capacité de planifier et d’agir de manière efficace.
+En réponse
+à l’émergence de la technologie de la chaîne de blocs, les institutions de gouvernance pourraienntreprendre quatre grandes catégories d’actions.
+La première option consiste à apporter une réponse aux «problèmes solutionnés par la chaîne dlocs», et ce, sans aucun recours à la chaîne de blocs.
+Par exemple, si la demande en chaîne de blocst fondée sur un désir de transparence accrue des procédures, il conviendrait peut-être de garantiux citoyens un accès élargi aux données et aux procédures publiques sans recourir à la chaîne dlocs.
+Une deuxième option consiste à encourager le développement et l’innovation en matière de chaînee blocs par le secteur privé en offrant une certaine légitimité à ces produits.
+Par exemple, souertaines conditions, des transactions consignées dans la chaîne de blocs pourraient disposer d’uneconnaissance juridique explicite en tant que preuve de l’exécution de transactions.
+Une troisième option est l’inverse de la précédente: décourager tout développement en refusan’accepter la légitimité des transactions basées sur la chaîne de blocs, par exemple en passant outru en annulant des clauses de contrats intelligents.
+La quatrième option consiste à adopter une chaîne de blocs à permissions au sein de systèmes ee structures existants, et à maintenir le rôle et le pouvoir des intermédiaires tout en offranuelques-unes des fonctions essentielles des chaînes de blocs, mais sans décentralisation oransparence totale.
+Ce modèle s’observe déjà dans l’utilisation de la technologie de la chaîne dlocs par le secteur public, par exemple au Royaume-Uni et en Estonie, ainsi que dans le secteurivé.
+Des variantes et des combinaisons de ces quatre stratégies pourraient très bien être appliquées à lechnologie de la chaîne de blocs dans différents domaines et dans différentes juridictions au cours deix prochaines années.
+À l’heure actuelle, il n’existe que peu de demande d’intervention à l’échelluropéenne.
+En effet, un récent rapport du Parlement européen sur les monnaies virtuelles fait état disques accrus, contre lesquels il conviendra de renforcer les capacités réglementaires, y compris l’expertise technique, et d’adopter, à l’échelle de l’Union, une approche réglementaire proportionnéeui ne freine pas l’innovation à un stade aussi précoce.
+Notons, enfin, que, si le protocole de la chaîne de blocs prévoit des plateformes permettant des actionositives aussi bien que des actions négatives, cela ne signifie pas pour autant que cette technologie eseutre.
+Dans sa forme la plus pure, elle favorise la redistribution du pouvoir, jusqu’ici détenu par decteurs centraux, vers de vastes communautés de pairs.
+Bien que les ambitions les plus idéalistes eévolutionnaires du développement de la chaîne de blocs demeurent probablement à l’état de projetsne mise en œuvre même modérée de cette technologie pourrait encourager un certain degré dedistribution et de transparence.
+Comme le remarque Leda Glyptis, la chaîne de blocs ne rendra paes gens meilleurs, mais elle pourrait rendre certaines des précautions nécessaires à leur vie quotidiennlus rapides, moins coûteuses, plus sûres et plus transparentes.
+La technologie de la chaîne de blocs suscite l’intérêrandissant des citoyens, des entreprises et des législateurs à travers l’Union européenne.
+La présente analyse vise à informer, de manière accessible, les personnes qu’intéressent à cette technologie, afin de susciter la curiosité ee donner lieu à des discussions au sujet de ses retombéeotentielles.
+Après une introduction d’ordre général, l’analysborde plus en détail huit domaines dans lesquels la chaîne dlocs est susceptible d’avoir des incidences importantes.
+Les parties relatives à chacun de ces domaines décrivent les applications possibles de cette technologie, les incidence potentielles et les enjeux à anticiper en matière de politique.

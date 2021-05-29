@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?> <!--Adrien Dubied 2021 -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> <!--Declaration of the root element of the XML Schema -->
+    <xs:import namespace="http://www.w3.org/XML/1998/namespace" 
+        schemaLocation="https://www.w3.org/2009/01/xml.xsd" /> <!-- Additional import from w3.org in order to declare the xml:lang attribute. -->
+        <xs:element name="tmx">     <!--Declaration of the root element of the XML document -->
+            <xs:complexType>        <!--The tmx element is a complexe type because it contains child elements and attributes. -->
+    <xs:sequence>
+        <xs:element ref="header"/> <!-- Child elements that are contained within the tmx element and their order -->
+        <xs:element ref="body"/>   
+     </xs:sequence>
+                <xs:attribute name="version" use="required" type="xs:integer"/> <!-- Attribute that is contained within the tmx element. The use is mandatory and the data type is integer.-->
+    </xs:complexType>
+</xs:element>
+        <xs:element name="header"> <!--The header element is a complexe type because it contains attributes. -->
+        <xs:complexType>
+            <xs:attribute name="creationTool" use="required" type="xs:string"/> <!-- List of attributes that are contained within the header element. Their use is mandatory and the data type is string.-->
+            <xs:attribute name="creationToolVersion" use="required" type="xs:string"/>
+            <xs:attribute name="segType" use="required" type="xs:string"/>
+            <xs:attribute name="adminLang" use="required" type="xs:string"/>
+            <xs:attribute name="srcLang" use="required" type="xs:string"/>
+            <xs:attribute name="dataType" use="required" type="xs:string"/>
+        </xs:complexType>
+    </xs:element>
+        <xs:element name="body"> <!--The body element is a complexe type because it contains a child element. -->
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="tu" maxOccurs="unbounded"/> <!--The child element's occurence is set unbounded because this will allow to create more tu elements in the future, when the term base will have to be increased with new terms. -->
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+        <xs:element name="tu"> <!--The tu element is a complexe type because it contains a child element. -->
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="tuv" maxOccurs="unbounded"/> <!--The child element's occurence is set unbounded because this will allow to create more tu elements in the future, when the term base will have to be increased with new languages.. -->
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+        <xs:element name="tuv"> <!--The tuv element is a complexe type because it contains a child elements and attributes. -->
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="term"/> <!--Declaration of the child element.-->
+                <xs:element ref="definition"/> <!--Declaration of the child element.-->   
+            </xs:sequence>
+            <xs:attribute ref="xml:lang" use="required"/> <!--Declaration of the attribute which is mandatory in order tp manage the xml document according to language combinations.-->
+        </xs:complexType>
+    </xs:element>
+        <xs:element name="term" type="xs:string"/> <!--Declaration of a simple type element. It only contains strings-->
+        <xs:element name="definition" type="xs:string"/> <!--Declaration of a simple type element. It only contains strings-->
+</xs:schema>
