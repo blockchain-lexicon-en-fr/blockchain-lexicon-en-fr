@@ -8,7 +8,7 @@
 ---
 - 🌱 I’m currently studying multilingual communication technologies.
 ---
-- 💞️ I’m looking to collaborate on blockchain projects joining my languages, my 12 years experience in finance and my recently acquired skills in communication technologies. In this repository you'll find a quick presentation on how I began making a term base and a translation memory for the Blockchain area using Natural Language Processing (NLP) tools.
+- 💞️ I’m looking to collaborate on Blockchain projects joining my languages, my 12 years experience in finance and my recently acquired skills in communication technologies. In this repository you'll find a quick presentation on how I began making a term base and a translation memory for the Blockchain area using Natural Language Processing (NLP) tools.
 ---
 - 📫 Reach out to me! [adrien.dubied@etu.unige.ch](adrien.dubied@etu.unige.ch)
 ---
